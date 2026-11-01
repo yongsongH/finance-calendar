@@ -1,25 +1,46 @@
-# IANA timezone used only for calendar labels and local-time descriptions.
-# Timed DTSTART/DTEND values are emitted as UTC so DST remains correct everywhere.
-timezone: Asia/Shanghai
-calendar_name: 金融市场动态
+# Riversun 定制版: 基于 wwm9213/finance-calendar (MIT), 名单与财报要点推送 33 家一致
+timezone: Asia/Tokyo
+calendar_name: Riversun 美股投资日历
 
-# Keep a small amount of history so recent events do not disappear immediately.
 lookahead_days: 400
 history_days: 30
 request_timeout_seconds: 30
 claims_weeks_ahead: 16
 
 stocks:
-  - NVDA
-  - MU
-  - AMD
-  - AVGO
-  - TSM
   - AAPL
   - MSFT
   - GOOGL
   - META
   - AMZN
+  - NVDA
+  - TSLA
+  - NFLX
+  - AMD
+  - AVGO
+  - TSM
+  - ASML
+  - AMAT
+  - LRCX
+  - KLAC
+  - MU
+  - MRVL
+  - QCOM
+  - INTC
+  - ARM
+  - TXN
+  - 005930.KS
+  - 000660.KS
+  - DELL
+  - SMCI
+  - ANET
+  - VRT
+  - COHR
+  - ORCL
+  - PLTR
+  - CRM
+  - SNOW
+  - NOW
 
 macro:
   nfp: true
