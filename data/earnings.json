@@ -4,6 +4,58 @@
       "all_day": true,
       "category": "earnings",
       "description": {
+        "Company": "SK hynix",
+        "EPS Estimate": "1.203e+05",
+        "Earnings Date": "2027-01-27",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2027Q1",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "1.288e+14",
+        "Ticker": "000660.KS"
+      },
+      "end": "2027-01-28",
+      "kind": "earnings",
+      "metadata": {
+        "company": "SK hynix",
+        "ticker": "000660.KS"
+      },
+      "scope": "earnings:000660.KS",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/000660.KS/",
+      "start": "2027-01-27",
+      "summary": "📊 000660.KS · SK hynix 财报 [TAS]",
+      "uid": "earnings-000660.KS-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "SamsungElec",
+        "EPS Estimate": "1.648e+04",
+        "Earnings Date": "2027-01-27",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2027Q1",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "2.257e+14",
+        "Ticker": "005930.KS"
+      },
+      "end": "2027-01-28",
+      "kind": "earnings",
+      "metadata": {
+        "company": "SamsungElec",
+        "ticker": "005930.KS"
+      },
+      "scope": "earnings:005930.KS",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/005930.KS/",
+      "start": "2027-01-27",
+      "summary": "📊 005930.KS · SamsungElec 财报 [TAS]",
+      "uid": "earnings-005930.KS-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
         "Company": "Apple Inc.",
         "EPS Estimate": "1.985",
         "Earnings Date": "2026-11-02",
@@ -25,6 +77,32 @@
       "start": "2026-11-02",
       "summary": "📊 AAPL · Apple Inc. 财报 [TAS]",
       "uid": "earnings-AAPL-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Applied Materials, Inc.",
+        "EPS Estimate": "4.056",
+        "Earnings Date": "2026-11-12",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "1.03e+10",
+        "Ticker": "AMAT"
+      },
+      "end": "2026-11-13",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Applied Materials, Inc.",
+        "ticker": "AMAT"
+      },
+      "scope": "earnings:AMAT",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/AMAT/",
+      "start": "2026-11-12",
+      "summary": "📊 AMAT · Applied Materials, Inc. 财报 [TAS]",
+      "uid": "earnings-AMAT-2026Q4@finance-calendar"
     },
     {
       "all_day": true,
@@ -82,6 +160,84 @@
       "all_day": true,
       "category": "earnings",
       "description": {
+        "Company": "Arista Networks, Inc.",
+        "EPS Estimate": "1.079",
+        "Earnings Date": "2026-11-03",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "3.334e+09",
+        "Ticker": "ANET"
+      },
+      "end": "2026-11-04",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Arista Networks, Inc.",
+        "ticker": "ANET"
+      },
+      "scope": "earnings:ANET",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/ANET/",
+      "start": "2026-11-03",
+      "summary": "📊 ANET · Arista Networks, Inc. 财报 [TAS]",
+      "uid": "earnings-ANET-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Arm Holdings plc",
+        "EPS Estimate": "0.4756",
+        "Earnings Date": "2026-11-04",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "1.378e+09",
+        "Ticker": "ARM"
+      },
+      "end": "2026-11-05",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Arm Holdings plc",
+        "ticker": "ARM"
+      },
+      "scope": "earnings:ARM",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/ARM/",
+      "start": "2026-11-04",
+      "summary": "📊 ARM · Arm Holdings plc 财报 [TAS]",
+      "uid": "earnings-ARM-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "ASML Holding N.V. - New York Re",
+        "EPS Estimate": "15.39",
+        "Earnings Date": "2027-01-27",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2027Q1",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "1.482e+10",
+        "Ticker": "ASML"
+      },
+      "end": "2027-01-28",
+      "kind": "earnings",
+      "metadata": {
+        "company": "ASML Holding N.V. - New York Re",
+        "ticker": "ASML"
+      },
+      "scope": "earnings:ASML",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/ASML/",
+      "start": "2027-01-27",
+      "summary": "📊 ASML · ASML Holding N.V. - New York Re 财报 [TAS]",
+      "uid": "earnings-ASML-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
         "Company": "Broadcom Inc.",
         "EPS Estimate": "3.838",
         "Earnings Date": "2026-12-09",
@@ -103,6 +259,84 @@
       "start": "2026-12-09",
       "summary": "📊 AVGO · Broadcom Inc. 财报 [TAS]",
       "uid": "earnings-AVGO-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Coherent Corp.",
+        "EPS Estimate": "1.966",
+        "Earnings Date": "2026-11-04",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "2.304e+09",
+        "Ticker": "COHR"
+      },
+      "end": "2026-11-05",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Coherent Corp.",
+        "ticker": "COHR"
+      },
+      "scope": "earnings:COHR",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/COHR/",
+      "start": "2026-11-04",
+      "summary": "📊 COHR · Coherent Corp. 财报 [TAS]",
+      "uid": "earnings-COHR-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Salesforce, Inc.",
+        "EPS Estimate": "3.446",
+        "Earnings Date": "2026-12-02",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "1.146e+10",
+        "Ticker": "CRM"
+      },
+      "end": "2026-12-03",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Salesforce, Inc.",
+        "ticker": "CRM"
+      },
+      "scope": "earnings:CRM",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/CRM/",
+      "start": "2026-12-02",
+      "summary": "📊 CRM · Salesforce, Inc. 财报 [TAS]",
+      "uid": "earnings-CRM-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Dell Technologies Inc.",
+        "EPS Estimate": "6.557",
+        "Earnings Date": "2026-11-24",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "4.919e+10",
+        "Ticker": "DELL"
+      },
+      "end": "2026-11-25",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Dell Technologies Inc.",
+        "ticker": "DELL"
+      },
+      "scope": "earnings:DELL",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/DELL/",
+      "start": "2026-11-24",
+      "summary": "📊 DELL · Dell Technologies Inc. 财报 [TAS]",
+      "uid": "earnings-DELL-2026Q4@finance-calendar"
     },
     {
       "all_day": true,
@@ -134,6 +368,84 @@
       "all_day": true,
       "category": "earnings",
       "description": {
+        "Company": "Intel Corporation",
+        "EPS Estimate": "0.248",
+        "Earnings Date": "2027-01-28",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2027Q1",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "1.625e+10",
+        "Ticker": "INTC"
+      },
+      "end": "2027-01-29",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Intel Corporation",
+        "ticker": "INTC"
+      },
+      "scope": "earnings:INTC",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/INTC/",
+      "start": "2027-01-28",
+      "summary": "📊 INTC · Intel Corporation 财报 [TAS]",
+      "uid": "earnings-INTC-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "KLA Corporation",
+        "EPS Estimate": "1.441",
+        "Earnings Date": "2027-01-28",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2027Q1",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "4.711e+09",
+        "Ticker": "KLAC"
+      },
+      "end": "2027-01-29",
+      "kind": "earnings",
+      "metadata": {
+        "company": "KLA Corporation",
+        "ticker": "KLAC"
+      },
+      "scope": "earnings:KLAC",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/KLAC/",
+      "start": "2027-01-28",
+      "summary": "📊 KLAC · KLA Corporation 财报 [TAS]",
+      "uid": "earnings-KLAC-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Lam Research Corporation",
+        "EPS Estimate": "2.349",
+        "Earnings Date": "2027-01-27",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2027Q1",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "8.644e+09",
+        "Ticker": "LRCX"
+      },
+      "end": "2027-01-28",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Lam Research Corporation",
+        "ticker": "LRCX"
+      },
+      "scope": "earnings:LRCX",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/LRCX/",
+      "start": "2027-01-27",
+      "summary": "📊 LRCX · Lam Research Corporation 财报 [TAS]",
+      "uid": "earnings-LRCX-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
         "Company": "Meta Platforms, Inc.",
         "EPS Estimate": "8.719",
         "Earnings Date": "2027-01-27",
@@ -155,6 +467,32 @@
       "start": "2027-01-27",
       "summary": "📊 META · Meta Platforms, Inc. 财报 [TAS]",
       "uid": "earnings-META-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Marvell Technology, Inc.",
+        "EPS Estimate": "1.101",
+        "Earnings Date": "2026-12-01",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "3.152e+09",
+        "Ticker": "MRVL"
+      },
+      "end": "2026-12-02",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Marvell Technology, Inc.",
+        "ticker": "MRVL"
+      },
+      "scope": "earnings:MRVL",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/MRVL/",
+      "start": "2026-12-01",
+      "summary": "📊 MRVL · Marvell Technology, Inc. 财报 [TAS]",
+      "uid": "earnings-MRVL-2026Q4@finance-calendar"
     },
     {
       "all_day": true,
@@ -212,6 +550,58 @@
       "all_day": true,
       "category": "earnings",
       "description": {
+        "Company": "Netflix, Inc.",
+        "EPS Estimate": "0.6758",
+        "Earnings Date": "2027-01-19",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2027Q1",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "1.345e+10",
+        "Ticker": "NFLX"
+      },
+      "end": "2027-01-20",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Netflix, Inc.",
+        "ticker": "NFLX"
+      },
+      "scope": "earnings:NFLX",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/NFLX/",
+      "start": "2027-01-19",
+      "summary": "📊 NFLX · Netflix, Inc. 财报 [TAS]",
+      "uid": "earnings-NFLX-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "ServiceNow, Inc.",
+        "EPS Estimate": "1.068",
+        "Earnings Date": "2027-01-27",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2027Q1",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "4.371e+09",
+        "Ticker": "NOW"
+      },
+      "end": "2027-01-28",
+      "kind": "earnings",
+      "metadata": {
+        "company": "ServiceNow, Inc.",
+        "ticker": "NOW"
+      },
+      "scope": "earnings:NOW",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/NOW/",
+      "start": "2027-01-27",
+      "summary": "📊 NOW · ServiceNow, Inc. 财报 [TAS]",
+      "uid": "earnings-NOW-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
         "Company": "NVIDIA Corporation",
         "EPS Estimate": "2.473",
         "Earnings Date": "2026-11-17",
@@ -238,6 +628,162 @@
       "all_day": true,
       "category": "earnings",
       "description": {
+        "Company": "Oracle Corporation",
+        "EPS Estimate": "1.891",
+        "Earnings Date": "2026-12-14",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "2.133e+10",
+        "Ticker": "ORCL"
+      },
+      "end": "2026-12-15",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Oracle Corporation",
+        "ticker": "ORCL"
+      },
+      "scope": "earnings:ORCL",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/ORCL/",
+      "start": "2026-12-14",
+      "summary": "📊 ORCL · Oracle Corporation 财报 [TAS]",
+      "uid": "earnings-ORCL-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Palantir Technologies Inc.",
+        "EPS Estimate": "0.4071",
+        "Earnings Date": "2026-11-02",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "2.18e+09",
+        "Ticker": "PLTR"
+      },
+      "end": "2026-11-03",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Palantir Technologies Inc.",
+        "ticker": "PLTR"
+      },
+      "scope": "earnings:PLTR",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/PLTR/",
+      "start": "2026-11-02",
+      "summary": "📊 PLTR · Palantir Technologies Inc. 财报 [TAS]",
+      "uid": "earnings-PLTR-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "QUALCOMM Incorporated",
+        "EPS Estimate": "2.156",
+        "Earnings Date": "2026-11-04",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "1.014e+10",
+        "Ticker": "QCOM"
+      },
+      "end": "2026-11-05",
+      "kind": "earnings",
+      "metadata": {
+        "company": "QUALCOMM Incorporated",
+        "ticker": "QCOM"
+      },
+      "scope": "earnings:QCOM",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/QCOM/",
+      "start": "2026-11-04",
+      "summary": "📊 QCOM · QUALCOMM Incorporated 财报 [TAS]",
+      "uid": "earnings-QCOM-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Super Micro Computer, Inc.",
+        "EPS Estimate": "1.235",
+        "Earnings Date": "2026-11-03",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "1.626e+10",
+        "Ticker": "SMCI"
+      },
+      "end": "2026-11-04",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Super Micro Computer, Inc.",
+        "ticker": "SMCI"
+      },
+      "scope": "earnings:SMCI",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/SMCI/",
+      "start": "2026-11-03",
+      "summary": "📊 SMCI · Super Micro Computer, Inc. 财报 [TAS]",
+      "uid": "earnings-SMCI-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Snowflake Inc.",
+        "EPS Estimate": "0.5999",
+        "Earnings Date": "2026-12-02",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "1.654e+09",
+        "Ticker": "SNOW"
+      },
+      "end": "2026-12-03",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Snowflake Inc.",
+        "ticker": "SNOW"
+      },
+      "scope": "earnings:SNOW",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/SNOW/",
+      "start": "2026-12-02",
+      "summary": "📊 SNOW · Snowflake Inc. 财报 [TAS]",
+      "uid": "earnings-SNOW-2026Q4@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Tesla, Inc.",
+        "EPS Estimate": "0.5033",
+        "Earnings Date": "2027-01-27",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2027Q1",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "2.932e+10",
+        "Ticker": "TSLA"
+      },
+      "end": "2027-01-28",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Tesla, Inc.",
+        "ticker": "TSLA"
+      },
+      "scope": "earnings:TSLA",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/TSLA/",
+      "start": "2027-01-27",
+      "summary": "📊 TSLA · Tesla, Inc. 财报 [TAS]",
+      "uid": "earnings-TSLA-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
         "Company": "Taiwan Semiconductor Manufactur",
         "EPS Estimate": "5.164",
         "Earnings Date": "2027-01-14",
@@ -259,8 +805,60 @@
       "start": "2027-01-14",
       "summary": "📊 TSM · Taiwan Semiconductor Manufactur 财报 [TAS]",
       "uid": "earnings-TSM-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Texas Instruments Incorporated",
+        "EPS Estimate": "2.665",
+        "Earnings Date": "2027-01-26",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2027Q1",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "6.068e+09",
+        "Ticker": "TXN"
+      },
+      "end": "2027-01-27",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Texas Instruments Incorporated",
+        "ticker": "TXN"
+      },
+      "scope": "earnings:TXN",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/TXN/",
+      "start": "2027-01-26",
+      "summary": "📊 TXN · Texas Instruments Incorporated 财报 [TAS]",
+      "uid": "earnings-TXN-2027Q1@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "earnings",
+      "description": {
+        "Company": "Vertiv Holdings, LLC",
+        "EPS Estimate": "2.279",
+        "Earnings Date": "2026-10-28",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+        "Revenue Estimate": "4.479e+09",
+        "Ticker": "VRT"
+      },
+      "end": "2026-10-29",
+      "kind": "earnings",
+      "metadata": {
+        "company": "Vertiv Holdings, LLC",
+        "ticker": "VRT"
+      },
+      "scope": "earnings:VRT",
+      "source": "Yahoo Finance via yfinance",
+      "source_url": "https://finance.yahoo.com/quote/VRT/",
+      "start": "2026-10-28",
+      "summary": "📊 VRT · Vertiv Holdings, LLC 财报 [TAS]",
+      "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-01T05:43:18+00:00",
+  "updated_at": "2026-11-01T10:25:48+00:00",
   "version": 1
 }
