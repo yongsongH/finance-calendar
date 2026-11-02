@@ -57,12 +57,12 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "1.985",
+        "EPS Estimate": "1.993",
         "Earnings Date": "2026-11-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.133e+11",
+        "Revenue Estimate": "1.134e+11",
         "Ticker": "AAPL"
       },
       "end": "2026-11-03",
@@ -109,12 +109,12 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.937",
+        "EPS Estimate": "1.939",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.308e+10",
+        "Revenue Estimate": "1.309e+10",
         "Ticker": "AMD"
       },
       "end": "2026-11-04",
@@ -135,7 +135,7 @@
       "category": "earnings",
       "description": {
         "Company": "Amazon.com, Inc.",
-        "EPS Estimate": "2.453",
+        "EPS Estimate": "2.485",
         "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -343,12 +343,12 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.258",
+        "EPS Estimate": "3.255",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.424e+11",
+        "Revenue Estimate": "1.422e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -369,12 +369,12 @@
       "category": "earnings",
       "description": {
         "Company": "Intel Corporation",
-        "EPS Estimate": "0.2494",
+        "EPS Estimate": "0.2488",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.571e+10",
+        "Revenue Estimate": "1.57e+10",
         "Ticker": "INTC"
       },
       "end": "2027-01-29",
@@ -395,12 +395,12 @@
       "category": "earnings",
       "description": {
         "Company": "KLA Corporation",
-        "EPS Estimate": "1.446",
+        "EPS Estimate": "1.449",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.711e+09",
+        "Revenue Estimate": "4.72e+09",
         "Ticker": "KLAC"
       },
       "end": "2027-01-29",
@@ -499,12 +499,12 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.858",
+        "EPS Estimate": "4.857",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "9.666e+10",
+        "Revenue Estimate": "9.67e+10",
         "Ticker": "MSFT"
       },
       "end": "2027-01-28",
@@ -681,12 +681,12 @@
       "category": "earnings",
       "description": {
         "Company": "QUALCOMM Incorporated",
-        "EPS Estimate": "2.156",
+        "EPS Estimate": "2.161",
         "Earnings Date": "2026-11-04",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.014e+10",
+        "Revenue Estimate": "1.015e+10",
         "Ticker": "QCOM"
       },
       "end": "2026-11-05",
@@ -759,12 +759,12 @@
       "category": "earnings",
       "description": {
         "Company": "Tesla, Inc.",
-        "EPS Estimate": "0.5033",
+        "EPS Estimate": "0.5001",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.932e+10",
+        "Revenue Estimate": "2.931e+10",
         "Ticker": "TSLA"
       },
       "end": "2027-01-28",
@@ -842,7 +842,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.479e+09",
+        "Revenue Estimate": "4.476e+09",
         "Ticker": "VRT"
       },
       "end": "2026-10-29",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-01T17:49:03+00:00",
+  "updated_at": "2026-11-02T21:36:28+00:00",
   "version": 1
 }
