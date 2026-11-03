@@ -10,7 +10,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.288e+14",
+        "Revenue Estimate": "1.317e+14",
         "Ticker": "000660.KS"
       },
       "end": "2027-01-28",
@@ -36,7 +36,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.257e+14",
+        "Revenue Estimate": "2.254e+14",
         "Ticker": "005930.KS"
       },
       "end": "2027-01-28",
@@ -57,12 +57,12 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "1.993",
+        "EPS Estimate": "2.885",
         "Earnings Date": "2026-11-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.134e+11",
+        "Revenue Estimate": "1.531e+11",
         "Ticker": "AAPL"
       },
       "end": "2026-11-03",
@@ -109,7 +109,7 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.939",
+        "EPS Estimate": "1.94",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -265,7 +265,7 @@
       "category": "earnings",
       "description": {
         "Company": "Coherent Corp.",
-        "EPS Estimate": "1.966",
+        "EPS Estimate": "1.972",
         "Earnings Date": "2026-11-04",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -343,12 +343,12 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.255",
+        "EPS Estimate": "3.261",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.422e+11",
+        "Revenue Estimate": "1.423e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -478,7 +478,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.152e+09",
+        "Revenue Estimate": "3.156e+09",
         "Ticker": "MRVL"
       },
       "end": "2026-12-02",
@@ -499,7 +499,7 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.857",
+        "EPS Estimate": "4.803",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -629,7 +629,7 @@
       "category": "earnings",
       "description": {
         "Company": "Oracle Corporation",
-        "EPS Estimate": "1.891",
+        "EPS Estimate": "1.889",
         "Earnings Date": "2026-12-14",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -655,12 +655,12 @@
       "category": "earnings",
       "description": {
         "Company": "Palantir Technologies Inc.",
-        "EPS Estimate": "0.4071",
+        "EPS Estimate": "0.4595",
         "Earnings Date": "2026-11-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.18e+09",
+        "Revenue Estimate": "2.456e+09",
         "Ticker": "PLTR"
       },
       "end": "2026-11-03",
@@ -681,7 +681,7 @@
       "category": "earnings",
       "description": {
         "Company": "QUALCOMM Incorporated",
-        "EPS Estimate": "2.161",
+        "EPS Estimate": "2.16",
         "Earnings Date": "2026-11-04",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -837,12 +837,12 @@
       "category": "earnings",
       "description": {
         "Company": "Vertiv Holdings, LLC",
-        "EPS Estimate": "2.279",
+        "EPS Estimate": "2.281",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.476e+09",
+        "Revenue Estimate": "4.486e+09",
         "Ticker": "VRT"
       },
       "end": "2026-10-29",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-02T21:36:28+00:00",
+  "updated_at": "2026-11-03T04:57:22+00:00",
   "version": 1
 }
