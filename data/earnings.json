@@ -36,7 +36,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.254e+14",
+        "Revenue Estimate": "2.253e+14",
         "Ticker": "005930.KS"
       },
       "end": "2027-01-28",
@@ -57,15 +57,15 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "2.885",
-        "Earnings Date": "2026-11-02",
+        "EPS Estimate": "2.902",
+        "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.531e+11",
+        "Revenue Estimate": "1.557e+11",
         "Ticker": "AAPL"
       },
-      "end": "2026-11-03",
+      "end": "2027-01-29",
       "kind": "earnings",
       "metadata": {
         "company": "Apple Inc.",
@@ -74,9 +74,9 @@
       "scope": "earnings:AAPL",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AAPL/",
-      "start": "2026-11-02",
+      "start": "2027-01-28",
       "summary": "📊 AAPL · Apple Inc. 财报 [TAS]",
-      "uid": "earnings-AAPL-2026Q4@finance-calendar"
+      "uid": "earnings-AAPL-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -109,7 +109,7 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.94",
+        "EPS Estimate": "1.945",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -317,12 +317,12 @@
       "category": "earnings",
       "description": {
         "Company": "Dell Technologies Inc.",
-        "EPS Estimate": "6.557",
+        "EPS Estimate": "6.563",
         "Earnings Date": "2026-11-24",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.919e+10",
+        "Revenue Estimate": "4.925e+10",
         "Ticker": "DELL"
       },
       "end": "2026-11-25",
@@ -343,12 +343,12 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.261",
+        "EPS Estimate": "3.267",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.423e+11",
+        "Revenue Estimate": "1.424e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -374,7 +374,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.57e+10",
+        "Revenue Estimate": "1.567e+10",
         "Ticker": "INTC"
       },
       "end": "2027-01-29",
@@ -530,7 +530,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.174e+10",
+        "Revenue Estimate": "6.183e+10",
         "Ticker": "MU"
       },
       "end": "2026-12-24",
@@ -655,15 +655,15 @@
       "category": "earnings",
       "description": {
         "Company": "Palantir Technologies Inc.",
-        "EPS Estimate": "0.4595",
-        "Earnings Date": "2026-11-02",
+        "EPS Estimate": "0.4058",
+        "Earnings Date": "2027-02-01",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.456e+09",
+        "Revenue Estimate": "2.678e+09",
         "Ticker": "PLTR"
       },
-      "end": "2026-11-03",
+      "end": "2027-02-02",
       "kind": "earnings",
       "metadata": {
         "company": "Palantir Technologies Inc.",
@@ -672,16 +672,16 @@
       "scope": "earnings:PLTR",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/PLTR/",
-      "start": "2026-11-02",
+      "start": "2027-02-01",
       "summary": "📊 PLTR · Palantir Technologies Inc. 财报 [TAS]",
-      "uid": "earnings-PLTR-2026Q4@finance-calendar"
+      "uid": "earnings-PLTR-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
       "category": "earnings",
       "description": {
         "Company": "QUALCOMM Incorporated",
-        "EPS Estimate": "2.16",
+        "EPS Estimate": "2.161",
         "Earnings Date": "2026-11-04",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-03T04:57:22+00:00",
+  "updated_at": "2026-11-03T19:19:49+00:00",
   "version": 1
 }
