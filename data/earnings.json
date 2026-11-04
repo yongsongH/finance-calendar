@@ -161,12 +161,12 @@
       "category": "earnings",
       "description": {
         "Company": "Arista Networks, Inc.",
-        "EPS Estimate": "1.079",
+        "EPS Estimate": "1.15",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.334e+09",
+        "Revenue Estimate": "3.598e+09",
         "Ticker": "ANET"
       },
       "end": "2026-11-04",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-03T19:19:49+00:00",
+  "updated_at": "2026-11-04T04:28:20+00:00",
   "version": 1
 }
