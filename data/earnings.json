@@ -57,12 +57,12 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "2.902",
+        "EPS Estimate": "2.903",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.557e+11",
+        "Revenue Estimate": "1.556e+11",
         "Ticker": "AAPL"
       },
       "end": "2027-01-29",
@@ -109,15 +109,15 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.945",
-        "Earnings Date": "2026-11-03",
+        "EPS Estimate": "2.948",
+        "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.309e+10",
+        "Revenue Estimate": "1.636e+10",
         "Ticker": "AMD"
       },
-      "end": "2026-11-04",
+      "end": "2027-02-03",
       "kind": "earnings",
       "metadata": {
         "company": "Advanced Micro Devices, Inc.",
@@ -126,9 +126,9 @@
       "scope": "earnings:AMD",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AMD/",
-      "start": "2026-11-03",
+      "start": "2027-02-02",
       "summary": "📊 AMD · Advanced Micro Devices, Inc. 财报 [TAS]",
-      "uid": "earnings-AMD-2026Q4@finance-calendar"
+      "uid": "earnings-AMD-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -161,12 +161,12 @@
       "category": "earnings",
       "description": {
         "Company": "Arista Networks, Inc.",
-        "EPS Estimate": "1.15",
+        "EPS Estimate": "1.306",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.598e+09",
+        "Revenue Estimate": "4.007e+09",
         "Ticker": "ANET"
       },
       "end": "2026-11-04",
@@ -317,12 +317,12 @@
       "category": "earnings",
       "description": {
         "Company": "Dell Technologies Inc.",
-        "EPS Estimate": "6.563",
+        "EPS Estimate": "6.554",
         "Earnings Date": "2026-11-24",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.925e+10",
+        "Revenue Estimate": "4.918e+10",
         "Ticker": "DELL"
       },
       "end": "2026-11-25",
@@ -369,12 +369,12 @@
       "category": "earnings",
       "description": {
         "Company": "Intel Corporation",
-        "EPS Estimate": "0.2488",
+        "EPS Estimate": "0.2486",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.567e+10",
+        "Revenue Estimate": "1.566e+10",
         "Ticker": "INTC"
       },
       "end": "2027-01-29",
@@ -499,7 +499,7 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.803",
+        "EPS Estimate": "4.856",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -660,7 +660,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.678e+09",
+        "Revenue Estimate": "2.669e+09",
         "Ticker": "PLTR"
       },
       "end": "2027-02-02",
@@ -681,12 +681,12 @@
       "category": "earnings",
       "description": {
         "Company": "QUALCOMM Incorporated",
-        "EPS Estimate": "2.161",
+        "EPS Estimate": "2.16",
         "Earnings Date": "2026-11-04",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.015e+10",
+        "Revenue Estimate": "1.014e+10",
         "Ticker": "QCOM"
       },
       "end": "2026-11-05",
@@ -707,15 +707,15 @@
       "category": "earnings",
       "description": {
         "Company": "Super Micro Computer, Inc.",
-        "EPS Estimate": "1.235",
-        "Earnings Date": "2026-11-03",
+        "EPS Estimate": "1.223",
+        "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.626e+10",
+        "Revenue Estimate": "1.81e+10",
         "Ticker": "SMCI"
       },
-      "end": "2026-11-04",
+      "end": "2027-02-03",
       "kind": "earnings",
       "metadata": {
         "company": "Super Micro Computer, Inc.",
@@ -724,9 +724,9 @@
       "scope": "earnings:SMCI",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/SMCI/",
-      "start": "2026-11-03",
+      "start": "2027-02-02",
       "summary": "📊 SMCI · Super Micro Computer, Inc. 财报 [TAS]",
-      "uid": "earnings-SMCI-2026Q4@finance-calendar"
+      "uid": "earnings-SMCI-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -790,7 +790,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.705e+12",
+        "Revenue Estimate": "1.708e+12",
         "Ticker": "TSM"
       },
       "end": "2027-01-15",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-04T04:28:20+00:00",
+  "updated_at": "2026-11-04T19:36:54+00:00",
   "version": 1
 }

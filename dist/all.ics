@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:📊 GOOGL · Alphabet Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-GOOGL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: GOOGL\n公司: 谷歌母公司\n财报日期: 20
@@ -177,7 +177,7 @@ DESCRIPTION:股票代码: GOOGL\n公司: 谷歌母公司\n财报日期: 20
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 3.267\n营收预期: 1.424e+11\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/GOOGL/\n最后更新: 2026-11-04T04:28:20+00:00
+ ahoo.com/quote/GOOGL/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/GOOGL/
 END:VEVENT
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:📊 VRT · Vertiv Holdings\, LLC 财报 [TAS]
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-VRT-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: VRT\n公司: Vertiv Holdings\, LLC\n财报日期
@@ -193,7 +193,7 @@ DESCRIPTION:股票代码: VRT\n公司: Vertiv Holdings\, LLC\n财报日期
  第4季度\n财务季度来源: 采用自然季度备用值；雅虎财经
  未提供财务期间\n每股收益预期: 2.281\n营收预期: 4.486e+09\
  n来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.
- yahoo.com/quote/VRT/\n最后更新: 2026-11-04T04:28:20+00:00
+ yahoo.com/quote/VRT/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/VRT/
 END:VEVENT
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:📊 AMZN · Amazon.com\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-AMZN-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AMZN\n公司: 亚马逊\n财报日期: 2026-10-2
@@ -223,7 +223,7 @@ DESCRIPTION:股票代码: AMZN\n公司: 亚马逊\n财报日期: 2026-10-2
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
  务期间\n每股收益预期: 2.485\n营收预期: 2.447e+11\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/AMZN/\n最后更新: 2026-11-04T04:28:20+00:00
+ ote/AMZN/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AMZN/
 END:VEVENT
@@ -259,58 +259,26 @@ URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📊 AMD · Advanced Micro Devices\, Inc. 财报 [TAS]
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261104T042820Z
-UID:earnings-AMD-2026Q4@finance-calendar
-CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:股票代码: AMD\n公司: 超威半导体\n财报日期: 2026
- -11-03\n财报时段: 时间待定（TAS）\n财务季度: 2026年第4季
- 度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
- 供财务期间\n每股收益预期: 1.945\n营收预期: 1.309e+10\n来
- 源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/AMD/\n最后更新: 2026-11-04T04:28:20+00:00
-TRANSP:TRANSPARENT
-URL:https://finance.yahoo.com/quote/AMD/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📊 ANET · Arista Networks\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-ANET-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: ANET\n公司: Arista Networks\, Inc.\n财报日
  期: 2026-11-03\n财报时段: 时间待定（TAS）\n财务季度: 2026
  年第4季度\n财务季度来源: 采用自然季度备用值；雅虎财
- 经未提供财务期间\n每股收益预期: 1.15\n营收预期: 3.598e+0
- 9\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://financ
- e.yahoo.com/quote/ANET/\n最后更新: 2026-11-04T04:28:20+00:00
+ 经未提供财务期间\n每股收益预期: 1.306\n营收预期: 4.007e+
+ 09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://finan
+ ce.yahoo.com/quote/ANET/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/ANET/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📊 SMCI · Super Micro Computer\, Inc. 财报 [TAS]
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261104T042820Z
-UID:earnings-SMCI-2026Q4@finance-calendar
-CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:股票代码: SMCI\n公司: Super Micro Computer\, Inc.\n财
- 报日期: 2026-11-03\n财报时段: 时间待定（TAS）\n财务季度: 
- 2026年第4季度\n财务季度来源: 采用自然季度备用值；雅
- 虎财经未提供财务期间\n每股收益预期: 1.235\n营收预期: 1
- .626e+10\n来源: 雅虎财经（通过 yfinance）\n来源链接: https:/
- /finance.yahoo.com/quote/SMCI/\n最后更新: 2026-11-04T04:28:20+00:00
-TRANSP:TRANSPARENT
-URL:https://finance.yahoo.com/quote/SMCI/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 ARM · Arm Holdings plc 财报 [TAS]
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-ARM-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: ARM\n公司: Arm Holdings plc\n财报日期: 202
@@ -318,7 +286,7 @@ DESCRIPTION:股票代码: ARM\n公司: Arm Holdings plc\n财报日期: 202
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 0.4756\n营收预期: 1.378e+09\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/ARM/\n最后更新: 2026-11-04T04:28:20+00:00
+ o.com/quote/ARM/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/ARM/
 END:VEVENT
@@ -326,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:📊 COHR · Coherent Corp. 财报 [TAS]
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-COHR-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: COHR\n公司: Coherent Corp.\n财报日期: 2026
@@ -334,7 +302,7 @@ DESCRIPTION:股票代码: COHR\n公司: Coherent Corp.\n财报日期: 2026
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 1.972\n营收预期: 2.304e+09\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/COHR/\n最后更新: 2026-11-04T04:28:20+00:00
+ o.com/quote/COHR/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/COHR/
 END:VEVENT
@@ -342,15 +310,15 @@ BEGIN:VEVENT
 SUMMARY:📊 QCOM · QUALCOMM Incorporated 财报 [TAS]
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-QCOM-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: QCOM\n公司: QUALCOMM Incorporated\n财报日
  期: 2026-11-04\n财报时段: 时间待定（TAS）\n财务季度: 2026
  年第4季度\n财务季度来源: 采用自然季度备用值；雅虎财
- 经未提供财务期间\n每股收益预期: 2.161\n营收预期: 1.015e+
- 10\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://finan
- ce.yahoo.com/quote/QCOM/\n最后更新: 2026-11-04T04:28:20+00:00
+ 经未提供财务期间\n每股收益预期: 2.16\n营收预期: 1.014e+1
+ 0\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://financ
+ e.yahoo.com/quote/QCOM/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/QCOM/
 END:VEVENT
@@ -445,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:📊 AMAT · Applied Materials\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-AMAT-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AMAT\n公司: Applied Materials\, Inc.\n财报
@@ -453,7 +421,7 @@ DESCRIPTION:股票代码: AMAT\n公司: Applied Materials\, Inc.\n财报
  6年第4季度\n财务季度来源: 采用自然季度备用值；雅虎
  财经未提供财务期间\n每股收益预期: 4.056\n营收预期: 1.03
  e+10\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://fin
- ance.yahoo.com/quote/AMAT/\n最后更新: 2026-11-04T04:28:20+00:00
+ ance.yahoo.com/quote/AMAT/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AMAT/
 END:VEVENT
@@ -504,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:📊 NVDA · NVIDIA Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-NVDA-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: NVDA\n公司: 英伟达\n财报日期: 2026-11-1
@@ -512,7 +480,7 @@ DESCRIPTION:股票代码: NVDA\n公司: 英伟达\n财报日期: 2026-11-1
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
  务期间\n每股收益预期: 2.473\n营收预期: 1.09e+11\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/NVDA/\n最后更新: 2026-11-04T04:28:20+00:00
+ ote/NVDA/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/NVDA/
 END:VEVENT
@@ -562,15 +530,15 @@ BEGIN:VEVENT
 SUMMARY:📊 DELL · Dell Technologies Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-DELL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: DELL\n公司: Dell Technologies Inc.\n财报日
  期: 2026-11-24\n财报时段: 时间待定（TAS）\n财务季度: 2026
  年第4季度\n财务季度来源: 采用自然季度备用值；雅虎财
- 经未提供财务期间\n每股收益预期: 6.563\n营收预期: 4.925e+
+ 经未提供财务期间\n每股收益预期: 6.554\n营收预期: 4.918e+
  10\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://finan
- ce.yahoo.com/quote/DELL/\n最后更新: 2026-11-04T04:28:20+00:00
+ ce.yahoo.com/quote/DELL/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/DELL/
 END:VEVENT
@@ -664,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:📊 MRVL · Marvell Technology\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-MRVL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: MRVL\n公司: Marvell Technology\, Inc.\n财报
@@ -672,7 +640,7 @@ DESCRIPTION:股票代码: MRVL\n公司: Marvell Technology\, Inc.\n财报
  6年第4季度\n财务季度来源: 采用自然季度备用值；雅虎
  财经未提供财务期间\n每股收益预期: 1.101\n营收预期: 3.15
  6e+09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://fi
- nance.yahoo.com/quote/MRVL/\n最后更新: 2026-11-04T04:28:20+00:00
+ nance.yahoo.com/quote/MRVL/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/MRVL/
 END:VEVENT
@@ -696,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:📊 CRM · Salesforce\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-CRM-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: CRM\n公司: Salesforce\, Inc.\n财报日期: 20
@@ -704,7 +672,7 @@ DESCRIPTION:股票代码: CRM\n公司: Salesforce\, Inc.\n财报日期: 20
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 3.446\n营收预期: 1.146e+10\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/CRM/\n最后更新: 2026-11-04T04:28:20+00:00
+ ahoo.com/quote/CRM/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/CRM/
 END:VEVENT
@@ -712,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:📊 SNOW · Snowflake Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-SNOW-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: SNOW\n公司: Snowflake Inc.\n财报日期: 2026
@@ -720,7 +688,7 @@ DESCRIPTION:股票代码: SNOW\n公司: Snowflake Inc.\n财报日期: 2026
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 0.5999\n营收预期: 1.654e+09\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/SNOW/\n最后更新: 2026-11-04T04:28:20+00:00
+ o.com/quote/SNOW/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/SNOW/
 END:VEVENT
@@ -801,7 +769,7 @@ BEGIN:VEVENT
 SUMMARY:📊 AVGO · Broadcom Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-AVGO-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AVGO\n公司: 博通\n财报日期: 2026-12-09\n
@@ -809,7 +777,7 @@ DESCRIPTION:股票代码: AVGO\n公司: 博通\n财报日期: 2026-12-09\n
  务季度来源: 采用自然季度备用值；雅虎财经未提供财务
  期间\n每股收益预期: 3.838\n营收预期: 3.491e+10\n来源: 雅虎
  财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
- /AVGO/\n最后更新: 2026-11-04T04:28:20+00:00
+ /AVGO/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AVGO/
 END:VEVENT
@@ -874,7 +842,7 @@ BEGIN:VEVENT
 SUMMARY:📊 ORCL · Oracle Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-ORCL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: ORCL\n公司: Oracle Corporation\n财报日期: 
@@ -882,7 +850,7 @@ DESCRIPTION:股票代码: ORCL\n公司: Oracle Corporation\n财报日期:
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 1.889\n营收预期: 2.133e+10\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/ORCL/\n最后更新: 2026-11-04T04:28:20+00:00
+ ahoo.com/quote/ORCL/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/ORCL/
 END:VEVENT
@@ -961,7 +929,7 @@ BEGIN:VEVENT
 SUMMARY:📊 MU · Micron Technology\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-MU-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: MU\n公司: 美光科技\n财报日期: 2026-12-
@@ -969,7 +937,7 @@ DESCRIPTION:股票代码: MU\n公司: 美光科技\n财报日期: 2026-12-
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
  务期间\n每股收益预期: 38.29\n营收预期: 6.183e+10\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/MU/\n最后更新: 2026-11-04T04:28:20+00:00
+ ote/MU/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/MU/
 END:VEVENT
@@ -1154,15 +1122,15 @@ BEGIN:VEVENT
 SUMMARY:📊 TSM · Taiwan Semiconductor Manufactur 财报 [TAS]
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-TSM-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: TSM\n公司: 台积电\n财报日期: 2027-01-14
  \n财报时段: 时间待定（TAS）\n财务季度: 2027年第1季度\n
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
- 务期间\n每股收益预期: 5.164\n营收预期: 1.705e+12\n来源: 雅
+ 务期间\n每股收益预期: 5.164\n营收预期: 1.708e+12\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/TSM/\n最后更新: 2026-11-04T04:28:20+00:00
+ ote/TSM/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/TSM/
 END:VEVENT
@@ -1213,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:📊 NFLX · Netflix\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-NFLX-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: NFLX\n公司: Netflix\, Inc.\n财报日期: 2027
@@ -1221,7 +1189,7 @@ DESCRIPTION:股票代码: NFLX\n公司: Netflix\, Inc.\n财报日期: 2027
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 0.6758\n营收预期: 1.345e+10\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/NFLX/\n最后更新: 2026-11-04T04:28:20+00:00
+ o.com/quote/NFLX/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/NFLX/
 END:VEVENT
@@ -1244,7 +1212,7 @@ BEGIN:VEVENT
 SUMMARY:📊 TXN · Texas Instruments Incorporated 财报 [TAS]
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-TXN-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: TXN\n公司: Texas Instruments Incorporated\n财
@@ -1252,7 +1220,7 @@ DESCRIPTION:股票代码: TXN\n公司: Texas Instruments Incorporated\n财
  2027年第1季度\n财务季度来源: 采用自然季度备用值；雅
  虎财经未提供财务期间\n每股收益预期: 2.665\n营收预期: 6
  .068e+09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https:/
- /finance.yahoo.com/quote/TXN/\n最后更新: 2026-11-04T04:28:20+00:00
+ /finance.yahoo.com/quote/TXN/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/TXN/
 END:VEVENT
@@ -1274,7 +1242,7 @@ BEGIN:VEVENT
 SUMMARY:📊 000660.KS · SK hynix 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-000660.KS-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: 000660.KS\n公司: SK hynix\n财报日期: 2027-
@@ -1282,7 +1250,7 @@ DESCRIPTION:股票代码: 000660.KS\n公司: SK hynix\n财报日期: 2027-
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 1.203e+05\n营收预期: 1.317e+14\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/000660.KS/\n最后更新: 2026-11-04T04:28:20+00:00
+ ahoo.com/quote/000660.KS/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/000660.KS/
 END:VEVENT
@@ -1290,7 +1258,7 @@ BEGIN:VEVENT
 SUMMARY:📊 005930.KS · SamsungElec 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-005930.KS-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: 005930.KS\n公司: SamsungElec\n财报日期: 20
@@ -1298,7 +1266,7 @@ DESCRIPTION:股票代码: 005930.KS\n公司: SamsungElec\n财报日期: 20
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 1.648e+04\n营收预期: 2.253e+14
  \n来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance
- .yahoo.com/quote/005930.KS/\n最后更新: 2026-11-04T04:28:20+00:00
+ .yahoo.com/quote/005930.KS/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/005930.KS/
 END:VEVENT
@@ -1306,7 +1274,7 @@ BEGIN:VEVENT
 SUMMARY:📊 ASML · ASML Holding N.V. - New York Re 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-ASML-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: ASML\n公司: ASML Holding N.V. - New York Re\n
@@ -1314,7 +1282,7 @@ DESCRIPTION:股票代码: ASML\n公司: ASML Holding N.V. - New York Re\n
  度: 2027年第1季度\n财务季度来源: 采用自然季度备用值；
  雅虎财经未提供财务期间\n每股收益预期: 15.39\n营收预期
  : 1.482e+10\n来源: 雅虎财经（通过 yfinance）\n来源链接: http
- s://finance.yahoo.com/quote/ASML/\n最后更新: 2026-11-04T04:28:20+00:00
+ s://finance.yahoo.com/quote/ASML/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/ASML/
 END:VEVENT
@@ -1322,7 +1290,7 @@ BEGIN:VEVENT
 SUMMARY:📊 LRCX · Lam Research Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-LRCX-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: LRCX\n公司: Lam Research Corporation\n财报
@@ -1330,7 +1298,7 @@ DESCRIPTION:股票代码: LRCX\n公司: Lam Research Corporation\n财报
  7年第1季度\n财务季度来源: 采用自然季度备用值；雅虎
  财经未提供财务期间\n每股收益预期: 2.349\n营收预期: 8.64
  4e+09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://fi
- nance.yahoo.com/quote/LRCX/\n最后更新: 2026-11-04T04:28:20+00:00
+ nance.yahoo.com/quote/LRCX/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/LRCX/
 END:VEVENT
@@ -1338,7 +1306,7 @@ BEGIN:VEVENT
 SUMMARY:📊 META · Meta Platforms\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-META-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: META\n公司: 脸书母公司\n财报日期: 202
@@ -1346,7 +1314,7 @@ DESCRIPTION:股票代码: META\n公司: 脸书母公司\n财报日期: 202
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 8.719\n营收预期: 7.516e+10\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/META/\n最后更新: 2026-11-04T04:28:20+00:00
+ o.com/quote/META/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/META/
 END:VEVENT
@@ -1354,15 +1322,15 @@ BEGIN:VEVENT
 SUMMARY:📊 MSFT · Microsoft Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-MSFT-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: MSFT\n公司: 微软\n财报日期: 2027-01-27\n
  财报时段: 时间待定（TAS）\n财务季度: 2027年第1季度\n财
  务季度来源: 采用自然季度备用值；雅虎财经未提供财务
- 期间\n每股收益预期: 4.803\n营收预期: 9.67e+10\n来源: 雅虎
+ 期间\n每股收益预期: 4.856\n营收预期: 9.67e+10\n来源: 雅虎
  财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
- /MSFT/\n最后更新: 2026-11-04T04:28:20+00:00
+ /MSFT/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/MSFT/
 END:VEVENT
@@ -1370,7 +1338,7 @@ BEGIN:VEVENT
 SUMMARY:📊 NOW · ServiceNow\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-NOW-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: NOW\n公司: ServiceNow\, Inc.\n财报日期: 20
@@ -1378,7 +1346,7 @@ DESCRIPTION:股票代码: NOW\n公司: ServiceNow\, Inc.\n财报日期: 20
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 1.072\n营收预期: 4.371e+09\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/NOW/\n最后更新: 2026-11-04T04:28:20+00:00
+ ahoo.com/quote/NOW/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/NOW/
 END:VEVENT
@@ -1386,7 +1354,7 @@ BEGIN:VEVENT
 SUMMARY:📊 TSLA · Tesla\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-TSLA-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: TSLA\n公司: Tesla\, Inc.\n财报日期: 2027-0
@@ -1394,7 +1362,7 @@ DESCRIPTION:股票代码: TSLA\n公司: Tesla\, Inc.\n财报日期: 2027-0
  \n财务季度来源: 采用自然季度备用值；雅虎财经未提供
  财务期间\n每股收益预期: 0.5001\n营收预期: 2.931e+10\n来源:
   雅虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.co
- m/quote/TSLA/\n最后更新: 2026-11-04T04:28:20+00:00
+ m/quote/TSLA/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/TSLA/
 END:VEVENT
@@ -1416,15 +1384,15 @@ BEGIN:VEVENT
 SUMMARY:📊 AAPL · Apple Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-AAPL-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AAPL\n公司: 苹果\n财报日期: 2027-01-28\n
  财报时段: 时间待定（TAS）\n财务季度: 2027年第1季度\n财
  务季度来源: 采用自然季度备用值；雅虎财经未提供财务
- 期间\n每股收益预期: 2.902\n营收预期: 1.557e+11\n来源: 雅虎
+ 期间\n每股收益预期: 2.903\n营收预期: 1.556e+11\n来源: 雅虎
  财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
- /AAPL/\n最后更新: 2026-11-04T04:28:20+00:00
+ /AAPL/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AAPL/
 END:VEVENT
@@ -1432,15 +1400,15 @@ BEGIN:VEVENT
 SUMMARY:📊 INTC · Intel Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-INTC-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: INTC\n公司: Intel Corporation\n财报日期: 2
  027-01-28\n财报时段: 时间待定（TAS）\n财务季度: 2027年第1
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
- 提供财务期间\n每股收益预期: 0.2488\n营收预期: 1.567e+10\n
+ 提供财务期间\n每股收益预期: 0.2486\n营收预期: 1.566e+10\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/INTC/\n最后更新: 2026-11-04T04:28:20+00:00
+ ahoo.com/quote/INTC/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/INTC/
 END:VEVENT
@@ -1448,7 +1416,7 @@ BEGIN:VEVENT
 SUMMARY:📊 KLAC · KLA Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-KLAC-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: KLAC\n公司: KLA Corporation\n财报日期: 202
@@ -1456,7 +1424,7 @@ DESCRIPTION:股票代码: KLAC\n公司: KLA Corporation\n财报日期: 202
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 1.449\n营收预期: 4.72e+09\n来源
  : 雅虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.c
- om/quote/KLAC/\n最后更新: 2026-11-04T04:28:20+00:00
+ om/quote/KLAC/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/KLAC/
 END:VEVENT
@@ -1479,15 +1447,15 @@ BEGIN:VEVENT
 SUMMARY:📊 PLTR · Palantir Technologies Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-DTSTAMP:20261104T042820Z
+DTSTAMP:20261104T193654Z
 UID:earnings-PLTR-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: PLTR\n公司: Palantir Technologies Inc.\n财报
  日期: 2027-02-01\n财报时段: 时间待定（TAS）\n财务季度: 202
  7年第1季度\n财务季度来源: 采用自然季度备用值；雅虎
  财经未提供财务期间\n每股收益预期: 0.4058\n营收预期: 2.6
- 78e+09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://f
- inance.yahoo.com/quote/PLTR/\n最后更新: 2026-11-04T04:28:20+00:00
+ 69e+09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://f
+ inance.yahoo.com/quote/PLTR/\n最后更新: 2026-11-04T19:36:54+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/PLTR/
 END:VEVENT
@@ -1506,6 +1474,38 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  T04:57:22+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📊 AMD · Advanced Micro Devices\, Inc. 财报 [TAS]
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+DTSTAMP:20261104T193654Z
+UID:earnings-AMD-2027Q1@finance-calendar
+CATEGORIES:EARNINGS,EARNINGS
+DESCRIPTION:股票代码: AMD\n公司: 超威半导体\n财报日期: 2027
+ -02-02\n财报时段: 时间待定（TAS）\n财务季度: 2027年第1季
+ 度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
+ 供财务期间\n每股收益预期: 2.948\n营收预期: 1.636e+10\n来
+ 源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
+ o.com/quote/AMD/\n最后更新: 2026-11-04T19:36:54+00:00
+TRANSP:TRANSPARENT
+URL:https://finance.yahoo.com/quote/AMD/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📊 SMCI · Super Micro Computer\, Inc. 财报 [TAS]
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+DTSTAMP:20261104T193654Z
+UID:earnings-SMCI-2027Q1@finance-calendar
+CATEGORIES:EARNINGS,EARNINGS
+DESCRIPTION:股票代码: SMCI\n公司: Super Micro Computer\, Inc.\n财
+ 报日期: 2027-02-02\n财报时段: 时间待定（TAS）\n财务季度: 
+ 2027年第1季度\n财务季度来源: 采用自然季度备用值；雅
+ 虎财经未提供财务期间\n每股收益预期: 1.223\n营收预期: 1
+ .81e+10\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://
+ finance.yahoo.com/quote/SMCI/\n最后更新: 2026-11-04T19:36:54+00:00
+TRANSP:TRANSPARENT
+URL:https://finance.yahoo.com/quote/SMCI/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
