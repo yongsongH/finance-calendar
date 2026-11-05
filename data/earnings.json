@@ -188,14 +188,14 @@
       "description": {
         "Company": "Arm Holdings plc",
         "EPS Estimate": "0.551",
-        "Earnings Date": "2026-11-04",
+        "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "1.524e+09",
         "Ticker": "ARM"
       },
-      "end": "2026-11-05",
+      "end": "2027-02-04",
       "kind": "earnings",
       "metadata": {
         "company": "Arm Holdings plc",
@@ -204,9 +204,9 @@
       "scope": "earnings:ARM",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/ARM/",
-      "start": "2026-11-04",
+      "start": "2027-02-03",
       "summary": "📊 ARM · Arm Holdings plc 财报 [TAS]",
-      "uid": "earnings-ARM-2026Q4@finance-calendar"
+      "uid": "earnings-ARM-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -266,14 +266,14 @@
       "description": {
         "Company": "Coherent Corp.",
         "EPS Estimate": "2.209",
-        "Earnings Date": "2026-11-04",
+        "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "2.542e+09",
         "Ticker": "COHR"
       },
-      "end": "2026-11-05",
+      "end": "2027-02-04",
       "kind": "earnings",
       "metadata": {
         "company": "Coherent Corp.",
@@ -282,9 +282,9 @@
       "scope": "earnings:COHR",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/COHR/",
-      "start": "2026-11-04",
+      "start": "2027-02-03",
       "summary": "📊 COHR · Coherent Corp. 财报 [TAS]",
-      "uid": "earnings-COHR-2026Q4@finance-calendar"
+      "uid": "earnings-COHR-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -682,14 +682,14 @@
       "description": {
         "Company": "QUALCOMM Incorporated",
         "EPS Estimate": "2.294",
-        "Earnings Date": "2026-11-04",
+        "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "1.056e+10",
         "Ticker": "QCOM"
       },
-      "end": "2026-11-05",
+      "end": "2027-02-04",
       "kind": "earnings",
       "metadata": {
         "company": "QUALCOMM Incorporated",
@@ -698,9 +698,9 @@
       "scope": "earnings:QCOM",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/QCOM/",
-      "start": "2026-11-04",
+      "start": "2027-02-03",
       "summary": "📊 QCOM · QUALCOMM Incorporated 财报 [TAS]",
-      "uid": "earnings-QCOM-2026Q4@finance-calendar"
+      "uid": "earnings-QCOM-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-05T04:43:46+00:00",
+  "updated_at": "2026-11-05T19:44:56+00:00",
   "version": 1
 }
