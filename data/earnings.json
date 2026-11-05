@@ -187,12 +187,12 @@
       "category": "earnings",
       "description": {
         "Company": "Arm Holdings plc",
-        "EPS Estimate": "0.4756",
+        "EPS Estimate": "0.551",
         "Earnings Date": "2026-11-04",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.378e+09",
+        "Revenue Estimate": "1.524e+09",
         "Ticker": "ARM"
       },
       "end": "2026-11-05",
@@ -265,12 +265,12 @@
       "category": "earnings",
       "description": {
         "Company": "Coherent Corp.",
-        "EPS Estimate": "1.972",
+        "EPS Estimate": "2.209",
         "Earnings Date": "2026-11-04",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.304e+09",
+        "Revenue Estimate": "2.542e+09",
         "Ticker": "COHR"
       },
       "end": "2026-11-05",
@@ -681,12 +681,12 @@
       "category": "earnings",
       "description": {
         "Company": "QUALCOMM Incorporated",
-        "EPS Estimate": "2.16",
+        "EPS Estimate": "2.294",
         "Earnings Date": "2026-11-04",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.014e+10",
+        "Revenue Estimate": "1.056e+10",
         "Ticker": "QCOM"
       },
       "end": "2026-11-05",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-04T19:36:54+00:00",
+  "updated_at": "2026-11-05T04:43:46+00:00",
   "version": 1
 }
