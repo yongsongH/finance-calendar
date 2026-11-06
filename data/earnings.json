@@ -109,7 +109,7 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "2.948",
+        "EPS Estimate": "2.94",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -161,12 +161,12 @@
       "category": "earnings",
       "description": {
         "Company": "Arista Networks, Inc.",
-        "EPS Estimate": "1.306",
+        "EPS Estimate": "1.305",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.007e+09",
+        "Revenue Estimate": "4.006e+09",
         "Ticker": "ANET"
       },
       "end": "2026-11-04",
@@ -660,7 +660,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.669e+09",
+        "Revenue Estimate": "2.675e+09",
         "Ticker": "PLTR"
       },
       "end": "2027-02-02",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-05T19:44:56+00:00",
+  "updated_at": "2026-11-06T04:44:09+00:00",
   "version": 1
 }
