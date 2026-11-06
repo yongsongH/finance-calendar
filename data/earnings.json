@@ -57,12 +57,12 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "2.903",
+        "EPS Estimate": "2.916",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.556e+11",
+        "Revenue Estimate": "1.561e+11",
         "Ticker": "AAPL"
       },
       "end": "2027-01-29",
@@ -109,12 +109,12 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "2.94",
+        "EPS Estimate": "2.939",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.636e+10",
+        "Revenue Estimate": "1.683e+10",
         "Ticker": "AMD"
       },
       "end": "2027-02-03",
@@ -135,7 +135,7 @@
       "category": "earnings",
       "description": {
         "Company": "Amazon.com, Inc.",
-        "EPS Estimate": "2.485",
+        "EPS Estimate": "2.491",
         "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -161,12 +161,12 @@
       "category": "earnings",
       "description": {
         "Company": "Arista Networks, Inc.",
-        "EPS Estimate": "1.305",
+        "EPS Estimate": "1.246",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.006e+09",
+        "Revenue Estimate": "3.918e+09",
         "Ticker": "ANET"
       },
       "end": "2026-11-04",
@@ -192,7 +192,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.524e+09",
+        "Revenue Estimate": "1.552e+09",
         "Ticker": "ARM"
       },
       "end": "2027-02-04",
@@ -265,7 +265,7 @@
       "category": "earnings",
       "description": {
         "Company": "Coherent Corp.",
-        "EPS Estimate": "2.209",
+        "EPS Estimate": "2.365",
         "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -681,12 +681,12 @@
       "category": "earnings",
       "description": {
         "Company": "QUALCOMM Incorporated",
-        "EPS Estimate": "2.294",
+        "EPS Estimate": "2.238",
         "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.056e+10",
+        "Revenue Estimate": "1.057e+10",
         "Ticker": "QCOM"
       },
       "end": "2027-02-04",
@@ -707,12 +707,12 @@
       "category": "earnings",
       "description": {
         "Company": "Super Micro Computer, Inc.",
-        "EPS Estimate": "1.223",
+        "EPS Estimate": "1.405",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.81e+10",
+        "Revenue Estimate": "2.053e+10",
         "Ticker": "SMCI"
       },
       "end": "2027-02-03",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-06T04:44:09+00:00",
+  "updated_at": "2026-11-06T19:09:12+00:00",
   "version": 1
 }
