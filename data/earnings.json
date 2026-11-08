@@ -629,7 +629,7 @@
       "category": "earnings",
       "description": {
         "Company": "Oracle Corporation",
-        "EPS Estimate": "1.889",
+        "EPS Estimate": "1.89",
         "Earnings Date": "2026-12-14",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -681,12 +681,12 @@
       "category": "earnings",
       "description": {
         "Company": "QUALCOMM Incorporated",
-        "EPS Estimate": "2.233",
+        "EPS Estimate": "2.254",
         "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.062e+10",
+        "Revenue Estimate": "1.082e+10",
         "Ticker": "QCOM"
       },
       "end": "2027-02-04",
@@ -707,12 +707,12 @@
       "category": "earnings",
       "description": {
         "Company": "Super Micro Computer, Inc.",
-        "EPS Estimate": "1.707",
+        "EPS Estimate": "1.72",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.049e+10",
+        "Revenue Estimate": "2.042e+10",
         "Ticker": "SMCI"
       },
       "end": "2027-02-03",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-07T17:39:25+00:00",
+  "updated_at": "2026-11-08T17:49:21+00:00",
   "version": 1
 }
