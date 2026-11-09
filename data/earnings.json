@@ -109,7 +109,7 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "2.927",
+        "EPS Estimate": "2.929",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -161,12 +161,12 @@
       "category": "earnings",
       "description": {
         "Company": "Arista Networks, Inc.",
-        "EPS Estimate": "1.289",
+        "EPS Estimate": "1.288",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.977e+09",
+        "Revenue Estimate": "3.976e+09",
         "Ticker": "ANET"
       },
       "end": "2026-11-04",
@@ -187,12 +187,12 @@
       "category": "earnings",
       "description": {
         "Company": "Arm Holdings plc",
-        "EPS Estimate": "0.5597",
+        "EPS Estimate": "0.5626",
         "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.536e+09",
+        "Revenue Estimate": "1.538e+09",
         "Ticker": "ARM"
       },
       "end": "2027-02-04",
@@ -265,12 +265,12 @@
       "category": "earnings",
       "description": {
         "Company": "Coherent Corp.",
-        "EPS Estimate": "2.4",
+        "EPS Estimate": "2.403",
         "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.647e+09",
+        "Revenue Estimate": "2.654e+09",
         "Ticker": "COHR"
       },
       "end": "2027-02-04",
@@ -603,7 +603,7 @@
       "category": "earnings",
       "description": {
         "Company": "NVIDIA Corporation",
-        "EPS Estimate": "2.473",
+        "EPS Estimate": "2.474",
         "Earnings Date": "2026-11-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-09T04:09:26+00:00",
+  "updated_at": "2026-11-09T22:09:14+00:00",
   "version": 1
 }
