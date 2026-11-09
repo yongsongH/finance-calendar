@@ -504,7 +504,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "9.67e+10",
+        "Revenue Estimate": "9.669e+10",
         "Ticker": "MSFT"
       },
       "end": "2027-01-28",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-08T17:49:21+00:00",
+  "updated_at": "2026-11-09T04:09:26+00:00",
   "version": 1
 }
