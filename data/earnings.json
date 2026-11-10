@@ -57,12 +57,12 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "2.917",
+        "EPS Estimate": "2.914",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.565e+11",
+        "Revenue Estimate": "1.564e+11",
         "Ticker": "AAPL"
       },
       "end": "2027-01-29",
@@ -109,7 +109,7 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "2.929",
+        "EPS Estimate": "2.927",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -161,7 +161,7 @@
       "category": "earnings",
       "description": {
         "Company": "Arista Networks, Inc.",
-        "EPS Estimate": "1.288",
+        "EPS Estimate": "1.289",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -270,7 +270,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.654e+09",
+        "Revenue Estimate": "2.645e+09",
         "Ticker": "COHR"
       },
       "end": "2027-02-04",
@@ -603,7 +603,7 @@
       "category": "earnings",
       "description": {
         "Company": "NVIDIA Corporation",
-        "EPS Estimate": "2.474",
+        "EPS Estimate": "2.475",
         "Earnings Date": "2026-11-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -681,7 +681,7 @@
       "category": "earnings",
       "description": {
         "Company": "QUALCOMM Incorporated",
-        "EPS Estimate": "2.254",
+        "EPS Estimate": "2.255",
         "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -707,12 +707,12 @@
       "category": "earnings",
       "description": {
         "Company": "Super Micro Computer, Inc.",
-        "EPS Estimate": "1.72",
+        "EPS Estimate": "1.781",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.042e+10",
+        "Revenue Estimate": "2.045e+10",
         "Ticker": "SMCI"
       },
       "end": "2027-02-03",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-09T22:09:14+00:00",
+  "updated_at": "2026-11-10T19:30:51+00:00",
   "version": 1
 }
