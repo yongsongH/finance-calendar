@@ -83,7 +83,7 @@
       "category": "earnings",
       "description": {
         "Company": "Applied Materials, Inc.",
-        "EPS Estimate": "4.056",
+        "EPS Estimate": "4.054",
         "Earnings Date": "2026-11-12",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -270,7 +270,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.654e+09",
+        "Revenue Estimate": "2.645e+09",
         "Ticker": "COHR"
       },
       "end": "2027-02-04",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-11T04:13:00+00:00",
+  "updated_at": "2026-11-11T19:26:28+00:00",
   "version": 1
 }
