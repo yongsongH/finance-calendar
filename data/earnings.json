@@ -5,12 +5,12 @@
       "category": "earnings",
       "description": {
         "Company": "SK hynix",
-        "EPS Estimate": "1.203e+05",
+        "EPS Estimate": "1.186e+05",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.315e+14",
+        "Revenue Estimate": "1.311e+14",
         "Ticker": "000660.KS"
       },
       "end": "2027-01-28",
@@ -57,7 +57,7 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "2.914",
+        "EPS Estimate": "2.911",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -655,7 +655,7 @@
       "category": "earnings",
       "description": {
         "Company": "Palantir Technologies Inc.",
-        "EPS Estimate": "0.4058",
+        "EPS Estimate": "0.5202",
         "Earnings Date": "2027-02-01",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -837,7 +837,7 @@
       "category": "earnings",
       "description": {
         "Company": "Vertiv Holdings, LLC",
-        "EPS Estimate": "2.284",
+        "EPS Estimate": "2.285",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-12T05:24:27+00:00",
+  "updated_at": "2026-11-12T19:44:00+00:00",
   "version": 1
 }
