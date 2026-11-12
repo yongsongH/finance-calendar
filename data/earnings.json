@@ -837,7 +837,7 @@
       "category": "earnings",
       "description": {
         "Company": "Vertiv Holdings, LLC",
-        "EPS Estimate": "2.281",
+        "EPS Estimate": "2.284",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-11T19:26:28+00:00",
+  "updated_at": "2026-11-12T05:24:27+00:00",
   "version": 1
 }
