@@ -83,12 +83,12 @@
       "category": "earnings",
       "description": {
         "Company": "Applied Materials, Inc.",
-        "EPS Estimate": "4.054",
+        "EPS Estimate": "4.246",
         "Earnings Date": "2026-11-12",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.03e+10",
+        "Revenue Estimate": "1.084e+10",
         "Ticker": "AMAT"
       },
       "end": "2026-11-13",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-12T19:44:00+00:00",
+  "updated_at": "2026-11-13T04:39:29+00:00",
   "version": 1
 }
