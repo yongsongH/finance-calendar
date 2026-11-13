@@ -83,15 +83,15 @@
       "category": "earnings",
       "description": {
         "Company": "Applied Materials, Inc.",
-        "EPS Estimate": "4.246",
-        "Earnings Date": "2026-11-12",
+        "EPS Estimate": "4.299",
+        "Earnings Date": "2027-02-11",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.084e+10",
+        "Revenue Estimate": "1.095e+10",
         "Ticker": "AMAT"
       },
-      "end": "2026-11-13",
+      "end": "2027-02-12",
       "kind": "earnings",
       "metadata": {
         "company": "Applied Materials, Inc.",
@@ -100,16 +100,16 @@
       "scope": "earnings:AMAT",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AMAT/",
-      "start": "2026-11-12",
+      "start": "2027-02-11",
       "summary": "📊 AMAT · Applied Materials, Inc. 财报 [TAS]",
-      "uid": "earnings-AMAT-2026Q4@finance-calendar"
+      "uid": "earnings-AMAT-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "2.927",
+        "EPS Estimate": "2.928",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -140,7 +140,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.448e+11",
+        "Revenue Estimate": "2.449e+11",
         "Ticker": "AMZN"
       },
       "end": "2026-10-30",
@@ -187,7 +187,7 @@
       "category": "earnings",
       "description": {
         "Company": "Arm Holdings plc",
-        "EPS Estimate": "0.5626",
+        "EPS Estimate": "0.5635",
         "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -322,7 +322,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.918e+10",
+        "Revenue Estimate": "4.917e+10",
         "Ticker": "DELL"
       },
       "end": "2026-11-25",
@@ -603,12 +603,12 @@
       "category": "earnings",
       "description": {
         "Company": "NVIDIA Corporation",
-        "EPS Estimate": "2.475",
+        "EPS Estimate": "2.473",
         "Earnings Date": "2026-11-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.09e+11",
+        "Revenue Estimate": "1.088e+11",
         "Ticker": "NVDA"
       },
       "end": "2026-11-18",
@@ -681,7 +681,7 @@
       "category": "earnings",
       "description": {
         "Company": "QUALCOMM Incorporated",
-        "EPS Estimate": "2.255",
+        "EPS Estimate": "2.256",
         "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -837,12 +837,12 @@
       "category": "earnings",
       "description": {
         "Company": "Vertiv Holdings, LLC",
-        "EPS Estimate": "2.285",
+        "EPS Estimate": "2.288",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.486e+09",
+        "Revenue Estimate": "4.492e+09",
         "Ticker": "VRT"
       },
       "end": "2026-10-29",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-13T04:39:29+00:00",
+  "updated_at": "2026-11-13T19:26:49+00:00",
   "version": 1
 }
