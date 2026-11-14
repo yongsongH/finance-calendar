@@ -8,52 +8,24 @@ REFRESH-INTERVAL:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-SUMMARY:🇺🇸 美国核心 CPI
-DTSTART:20261014T123000Z
-DTEND:20261014T130000Z
-DTSTAMP:20261112T194400Z
-UID:macro-US-CORE_CPI-2026-09@finance-calendar
-CATEGORIES:MACRO,CORE_CPI
-DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
- 价格指数，2026年九月\n数据所属期: 2026-09\n本地时间（Asi
- a/Tokyo）: 2026-10-14 21:30 JST\n来源: 美国劳工统计局（BLS）\n
- 来源链接: https://www.bls.gov/schedule/news_release/cpi.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
-URL:https://www.bls.gov/schedule/news_release/cpi.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇺🇸 美国 CPI
-DTSTART:20261014T123000Z
-DTEND:20261014T130000Z
-DTSTAMP:20261112T194400Z
-UID:macro-US-CPI-2026-09@finance-calendar
-CATEGORIES:MACRO,CPI
-DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
- 指数，2026年九月\n数据所属期: 2026-09\n本地时间（Asia/Toky
- o）: 2026-10-14 21:30 JST\n来源: 美国劳工统计局（BLS）\n来源
- 链接: https://www.bls.gov/schedule/news_release/cpi.htm\n最后更新: 2
- 026-11-12T19:44:00+00:00
-URL:https://www.bls.gov/schedule/news_release/cpi.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 PPI
 DTSTART:20261015T123000Z
 DTEND:20261015T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-CORE_PPI-2026-09@finance-calendar
 CATEGORIES:MACRO,CORE_PPI
 DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
  价格指数，2026年九月\n数据所属期: 2026-09\n本地时间（Asi
  a/Tokyo）: 2026-10-15 21:30 JST\n来源: 美国劳工统计局（BLS）\n
  来源链接: https://www.bls.gov/schedule/news_release/ppi.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261015T123000Z
 DTEND:20261015T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-10-10@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -61,41 +33,41 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  10-15 21:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 PPI
 DTSTART:20261015T123000Z
 DTEND:20261015T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-PPI-2026-09@finance-calendar
 CATEGORIES:MACRO,PPI
 DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
  指数，2026年九月\n数据所属期: 2026-09\n本地时间（Asia/Toky
  o）: 2026-10-15 21:30 JST\n来源: 美国劳工统计局（BLS）\n来源
  链接: https://www.bls.gov/schedule/news_release/ppi.htm\n最后更新: 2
- 026-11-12T19:44:00+00:00
+ 026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20261015T123000Z
 DTEND:20261015T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2026-09@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2026年九月\n
  数据所属期: 2026-09\n本地时间（Asia/Tokyo）: 2026-10-15 21:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261022T123000Z
 DTEND:20261022T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-10-17@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -103,20 +75,20 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  10-22 21:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC-MEETING-2026-07@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2026-
  10-27 至 2026-10-28\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -124,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:📊 GOOGL · Alphabet Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-GOOGL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: GOOGL\n公司: 谷歌母公司\n财报日期: 20
@@ -132,7 +104,7 @@ DESCRIPTION:股票代码: GOOGL\n公司: 谷歌母公司\n财报日期: 20
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 3.267\n营收预期: 1.424e+11\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/GOOGL/\n最后更新: 2026-11-13T19:26:49+00:00
+ ahoo.com/quote/GOOGL/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/GOOGL/
 END:VEVENT
@@ -140,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:📊 VRT · Vertiv Holdings\, LLC 财报 [TAS]
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-VRT-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: VRT\n公司: Vertiv Holdings\, LLC\n财报日期
@@ -148,7 +120,7 @@ DESCRIPTION:股票代码: VRT\n公司: Vertiv Holdings\, LLC\n财报日期
  第4季度\n财务季度来源: 采用自然季度备用值；雅虎财经
  未提供财务期间\n每股收益预期: 2.288\n营收预期: 4.492e+09\
  n来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.
- yahoo.com/quote/VRT/\n最后更新: 2026-11-13T19:26:49+00:00
+ yahoo.com/quote/VRT/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/VRT/
 END:VEVENT
@@ -156,21 +128,21 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20261028T180000Z
 DTEND:20261028T190000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_DECISION-2026-07@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  6-07\n会议结束日期: 2026-10-28\n本地时间（Asia/Tokyo）: 2026-1
  0-29 03:00 JST\n来源: 美国联邦储备委员会\n来源链接: https:/
  /www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 AMZN · Amazon.com\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-AMZN-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AMZN\n公司: 亚马逊\n财报日期: 2026-10-2
@@ -178,7 +150,7 @@ DESCRIPTION:股票代码: AMZN\n公司: 亚马逊\n财报日期: 2026-10-2
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
  务期间\n每股收益预期: 2.491\n营收预期: 2.449e+11\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/AMZN/\n最后更新: 2026-11-13T19:26:49+00:00
+ ote/AMZN/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AMZN/
 END:VEVENT
@@ -186,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261029T123000Z
 DTEND:20261029T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-10-24@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -194,22 +166,22 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  10-29 21:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20261102T150000Z
 DTEND:20261102T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2026-11@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2026-
  11\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2026-11-03 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -217,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:📊 ANET · Arista Networks\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-ANET-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: ANET\n公司: Arista Networks\, Inc.\n财报日
@@ -225,7 +197,7 @@ DESCRIPTION:股票代码: ANET\n公司: Arista Networks\, Inc.\n财报日
  年第4季度\n财务季度来源: 采用自然季度备用值；雅虎财
  经未提供财务期间\n每股收益预期: 1.287\n营收预期: 3.973e+
  09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://finan
- ce.yahoo.com/quote/ANET/\n最后更新: 2026-11-13T19:26:49+00:00
+ ce.yahoo.com/quote/ANET/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/ANET/
 END:VEVENT
@@ -233,15 +205,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20261104T150000Z
 DTEND:20261104T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2026-11@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2026-
  11\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2026-11-05 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -249,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261105T133000Z
 DTEND:20261105T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-10-31@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -257,70 +229,70 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  11-05 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国非农就业（NFP）
 DTSTART:20261106T133000Z
 DTEND:20261106T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-NFP-2026-10@finance-calendar
 CATEGORIES:MACRO,NFP
 DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
  ，2026年十月\n数据所属期: 2026-10\n本地时间（Asia/Tokyo）: 
  2026-11-06 22:30 JST\n来源: 美国劳工统计局（BLS）\n来源链接
  : https://www.bls.gov/schedule/news_release/empsit.htm\n最后更新: 2026
- -11-12T19:44:00+00:00
+ -11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国失业率
 DTSTART:20261106T133000Z
 DTEND:20261106T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-UNEMPLOYMENT-2026-10@finance-calendar
 CATEGORIES:MACRO,UNEMPLOYMENT
 DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2026年
  十月\n数据所属期: 2026-10\n本地时间（Asia/Tokyo）: 2026-11-06
   22:30 JST\n来源: 美国劳工统计局（BLS）\n来源链接: https://
- www.bls.gov/schedule/news_release/empsit.htm\n最后更新: 2026-11-12T19:
- 44:00+00:00
+ www.bls.gov/schedule/news_release/empsit.htm\n最后更新: 2026-11-14T04:
+ 34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 CPI
 DTSTART:20261110T133000Z
 DTEND:20261110T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-CORE_CPI-2026-10@finance-calendar
 CATEGORIES:MACRO,CORE_CPI
 DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
  价格指数，2026年十月\n数据所属期: 2026-10\n本地时间（Asi
  a/Tokyo）: 2026-11-10 22:30 JST\n来源: 美国劳工统计局（BLS）\n
  来源链接: https://www.bls.gov/schedule/news_release/cpi.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 CPI
 DTSTART:20261110T133000Z
 DTEND:20261110T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-CPI-2026-10@finance-calendar
 CATEGORIES:MACRO,CPI
 DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
  指数，2026年十月\n数据所属期: 2026-10\n本地时间（Asia/Toky
  o）: 2026-11-10 22:30 JST\n来源: 美国劳工统计局（BLS）\n来源
  链接: https://www.bls.gov/schedule/news_release/cpi.htm\n最后更新: 2
- 026-11-12T19:44:00+00:00
+ 026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261112T133000Z
 DTEND:20261112T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-11-07@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -328,50 +300,50 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  11-12 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 PPI
 DTSTART:20261113T133000Z
 DTEND:20261113T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-CORE_PPI-2026-10@finance-calendar
 CATEGORIES:MACRO,CORE_PPI
 DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
  价格指数，2026年十月\n数据所属期: 2026-10\n本地时间（Asi
  a/Tokyo）: 2026-11-13 22:30 JST\n来源: 美国劳工统计局（BLS）\n
  来源链接: https://www.bls.gov/schedule/news_release/ppi.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 PPI
 DTSTART:20261113T133000Z
 DTEND:20261113T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-PPI-2026-10@finance-calendar
 CATEGORIES:MACRO,PPI
 DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
  指数，2026年十月\n数据所属期: 2026-10\n本地时间（Asia/Toky
  o）: 2026-11-13 22:30 JST\n来源: 美国劳工统计局（BLS）\n来源
  链接: https://www.bls.gov/schedule/news_release/ppi.htm\n最后更新: 2
- 026-11-12T19:44:00+00:00
+ 026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 NVDA · NVIDIA Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-NVDA-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: NVDA\n公司: 英伟达\n财报日期: 2026-11-1
  7\n财报时段: 时间待定（TAS）\n财务季度: 2026年第4季度\n
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
- 务期间\n每股收益预期: 2.473\n营收预期: 1.088e+11\n来源: 雅
+ 务期间\n每股收益预期: 2.471\n营收预期: 1.087e+11\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/NVDA/\n最后更新: 2026-11-13T19:26:49+00:00
+ ote/NVDA/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/NVDA/
 END:VEVENT
@@ -379,34 +351,34 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20261117T133000Z
 DTEND:20261117T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2026-10@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2026年十月\n
  数据所属期: 2026-10\n本地时间（Asia/Tokyo）: 2026-11-17 22:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20261118T190000Z
 DTEND:20261118T193000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_MINUTES-2026-07@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2026-07\n会
  议结束日期: 2026-10-28\n日期确定方式: 美联储会后三周发
  布规则\n本地时间（Asia/Tokyo）: 2026-11-19 04:00 JST\n来源: 美
  国联邦储备委员会\n来源链接: https://www.federalreserve.gov/mon
- etarypolicy/fomccalendars.htm\n最后更新: 2026-11-12T19:44:00+00:00
+ etarypolicy/fomccalendars.htm\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261119T133000Z
 DTEND:20261119T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-11-14@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -414,14 +386,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  11-19 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 DELL · Dell Technologies Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-DELL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: DELL\n公司: Dell Technologies Inc.\n财报日
@@ -429,7 +401,7 @@ DESCRIPTION:股票代码: DELL\n公司: Dell Technologies Inc.\n财报日
  年第4季度\n财务季度来源: 采用自然季度备用值；雅虎财
  经未提供财务期间\n每股收益预期: 6.554\n营收预期: 4.917e+
  10\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://finan
- ce.yahoo.com/quote/DELL/\n最后更新: 2026-11-13T19:26:49+00:00
+ ce.yahoo.com/quote/DELL/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/DELL/
 END:VEVENT
@@ -437,35 +409,35 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 PCE
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-CORE_PCE-2026-10@finance-calendar
 CATEGORIES:MACRO,CORE_PCE
 DESCRIPTION:指标: 核心 PCE 物价指数\n发布项目: 个人收入与
  支出，2026年十月\n数据所属期: 2026-10\n本地时间（Asia/Toky
  o）: 2026-11-25 22:30 JST\n来源: 美国经济分析局（BEA）\n来源
- 链接: https://www.bea.gov/news/schedule\n最后更新: 2026-11-12T19:44:
- 00+00:00
+ 链接: https://www.bea.gov/news/schedule\n最后更新: 2026-11-14T04:34:
+ 42+00:00
 URL:https://www.bea.gov/news/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 GDP · Second Estimate
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-GDP-2026-Q3-second-estimate@finance-calendar
 CATEGORIES:MACRO,GDP
 DESCRIPTION:发布项目: 国内生产总值（GDP）第二次估值及企
  业利润，2026年第三季度\n估值阶段: 第二次估值\n数据所
  属期: 2026-Q3-second-estimate\n本地时间（Asia/Tokyo）: 2026-11-25 
  22:30 JST\n来源: 美国经济分析局（BEA）\n来源链接: https://w
- ww.bea.gov/news/schedule\n最后更新: 2026-11-12T19:44:00+00:00
+ ww.bea.gov/news/schedule\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.bea.gov/news/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-11-21@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -473,20 +445,20 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  四发布；遇联邦假日提前一天\n本地时间（Asia/Tokyo）: 202
  6-11-25 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA
  ）\n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新
- : 2026-11-12T19:44:00+00:00
+ : 2026-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 PCE
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-PCE-2026-10@finance-calendar
 CATEGORIES:MACRO,PCE
 DESCRIPTION:指标: PCE 物价指数\n发布项目: 个人收入与支出
  ，2026年十月\n数据所属期: 2026-10\n本地时间（Asia/Tokyo）: 
  2026-11-25 22:30 JST\n来源: 美国经济分析局（BEA）\n来源链接
- : https://www.bea.gov/news/schedule\n最后更新: 2026-11-12T19:44:00+00:
+ : https://www.bea.gov/news/schedule\n最后更新: 2026-11-14T04:34:42+00:
  00
 URL:https://www.bea.gov/news/schedule
 END:VEVENT
@@ -523,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:📊 MRVL · Marvell Technology\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-MRVL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: MRVL\n公司: Marvell Technology\, Inc.\n财报
@@ -531,7 +503,7 @@ DESCRIPTION:股票代码: MRVL\n公司: Marvell Technology\, Inc.\n财报
  6年第4季度\n财务季度来源: 采用自然季度备用值；雅虎
  财经未提供财务期间\n每股收益预期: 1.101\n营收预期: 3.15
  6e+09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://fi
- nance.yahoo.com/quote/MRVL/\n最后更新: 2026-11-13T19:26:49+00:00
+ nance.yahoo.com/quote/MRVL/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/MRVL/
 END:VEVENT
@@ -539,15 +511,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20261201T150000Z
 DTEND:20261201T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2026-12@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2026-
  12\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2026-12-02 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -555,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:📊 CRM · Salesforce\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-CRM-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: CRM\n公司: Salesforce\, Inc.\n财报日期: 20
@@ -563,7 +535,7 @@ DESCRIPTION:股票代码: CRM\n公司: Salesforce\, Inc.\n财报日期: 20
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 3.446\n营收预期: 1.146e+10\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/CRM/\n最后更新: 2026-11-13T19:26:49+00:00
+ ahoo.com/quote/CRM/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/CRM/
 END:VEVENT
@@ -571,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:📊 SNOW · Snowflake Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-SNOW-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: SNOW\n公司: Snowflake Inc.\n财报日期: 2026
@@ -579,7 +551,7 @@ DESCRIPTION:股票代码: SNOW\n公司: Snowflake Inc.\n财报日期: 2026
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 0.5999\n营收预期: 1.654e+09\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/SNOW/\n最后更新: 2026-11-13T19:26:49+00:00
+ o.com/quote/SNOW/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/SNOW/
 END:VEVENT
@@ -587,7 +559,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261203T133000Z
 DTEND:20261203T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-11-28@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -595,22 +567,22 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  12-03 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20261203T150000Z
 DTEND:20261203T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2026-12@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2026-
  12\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2026-12-04 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -618,41 +590,41 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国非农就业（NFP）
 DTSTART:20261204T133000Z
 DTEND:20261204T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-NFP-2026-11@finance-calendar
 CATEGORIES:MACRO,NFP
 DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
  ，2026年十一月\n数据所属期: 2026-11\n本地时间（Asia/Tokyo
  ）: 2026-12-04 22:30 JST\n来源: 美国劳工统计局（BLS）\n来源
  链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后更新
- : 2026-11-12T19:44:00+00:00
+ : 2026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国失业率
 DTSTART:20261204T133000Z
 DTEND:20261204T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-UNEMPLOYMENT-2026-11@finance-calendar
 CATEGORIES:MACRO,UNEMPLOYMENT
 DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2026年
  十一月\n数据所属期: 2026-11\n本地时间（Asia/Tokyo）: 2026-12
  -04 22:30 JST\n来源: 美国劳工统计局（BLS）\n来源链接: https
- ://www.bls.gov/schedule/news_release/empsit.htm\n最后更新: 2026-11-12T
- 19:44:00+00:00
+ ://www.bls.gov/schedule/news_release/empsit.htm\n最后更新: 2026-11-14T
+ 04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC-MEETING-2026-08@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2026-
  12-08 至 2026-12-09\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -660,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:📊 AVGO · Broadcom Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-AVGO-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AVGO\n公司: 博通\n财报日期: 2026-12-09\n
@@ -668,7 +640,7 @@ DESCRIPTION:股票代码: AVGO\n公司: 博通\n财报日期: 2026-12-09\n
  务季度来源: 采用自然季度备用值；雅虎财经未提供财务
  期间\n每股收益预期: 3.838\n营收预期: 3.491e+10\n来源: 雅虎
  财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
- /AVGO/\n最后更新: 2026-11-13T19:26:49+00:00
+ /AVGO/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AVGO/
 END:VEVENT
@@ -676,49 +648,49 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20261209T190000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_DECISION-2026-08@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  6-08\n会议结束日期: 2026-12-09\n本地时间（Asia/Tokyo）: 2026-1
  2-10 04:00 JST\n来源: 美国联邦储备委员会\n来源链接: https:/
  /www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 CPI
 DTSTART:20261210T133000Z
 DTEND:20261210T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-CORE_CPI-2026-11@finance-calendar
 CATEGORIES:MACRO,CORE_CPI
 DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
  价格指数，2026年十一月\n数据所属期: 2026-11\n本地时间（
  Asia/Tokyo）: 2026-12-10 22:30 JST\n来源: 美国劳工统计局（BLS
  ）\n来源链接: https://www.bls.gov/schedule/news_release/cpi.htm\n最
- 后更新: 2026-11-12T19:44:00+00:00
+ 后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 CPI
 DTSTART:20261210T133000Z
 DTEND:20261210T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-CPI-2026-11@finance-calendar
 CATEGORIES:MACRO,CPI
 DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
  指数，2026年十一月\n数据所属期: 2026-11\n本地时间（Asia/T
  okyo）: 2026-12-10 22:30 JST\n来源: 美国劳工统计局（BLS）\n来
  源链接: https://www.bls.gov/schedule/news_release/cpi.htm\n最后更新
- : 2026-11-12T19:44:00+00:00
+ : 2026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261210T133000Z
 DTEND:20261210T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-12-05@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -726,14 +698,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  12-10 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 ORCL · Oracle Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-ORCL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: ORCL\n公司: Oracle Corporation\n财报日期: 
@@ -741,7 +713,7 @@ DESCRIPTION:股票代码: ORCL\n公司: Oracle Corporation\n财报日期:
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 1.89\n营收预期: 2.133e+10\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/ORCL/\n最后更新: 2026-11-13T19:26:49+00:00
+ o.com/quote/ORCL/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/ORCL/
 END:VEVENT
@@ -749,48 +721,48 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 PPI
 DTSTART:20261215T133000Z
 DTEND:20261215T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-CORE_PPI-2026-11@finance-calendar
 CATEGORIES:MACRO,CORE_PPI
 DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
  价格指数，2026年十一月\n数据所属期: 2026-11\n本地时间（
  Asia/Tokyo）: 2026-12-15 22:30 JST\n来源: 美国劳工统计局（BLS
  ）\n来源链接: https://www.bls.gov/schedule/news_release/ppi.htm\n最
- 后更新: 2026-11-12T19:44:00+00:00
+ 后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 PPI
 DTSTART:20261215T133000Z
 DTEND:20261215T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-PPI-2026-11@finance-calendar
 CATEGORIES:MACRO,PPI
 DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
  指数，2026年十一月\n数据所属期: 2026-11\n本地时间（Asia/T
  okyo）: 2026-12-15 22:30 JST\n来源: 美国劳工统计局（BLS）\n来
  源链接: https://www.bls.gov/schedule/news_release/ppi.htm\n最后更新
- : 2026-11-12T19:44:00+00:00
+ : 2026-11-14T04:34:42+00:00
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20261216T133000Z
 DTEND:20261216T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2026-11@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2026年十一
  月\n数据所属期: 2026-11\n本地时间（Asia/Tokyo）: 2026-12-16 22
  :30 JST\n来源: 美国人口普查局\n来源链接: https://www.census.g
- ov/retail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ ov/retail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261217T133000Z
 DTEND:20261217T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-12-12@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -798,7 +770,7 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  12-17 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
@@ -820,7 +792,7 @@ BEGIN:VEVENT
 SUMMARY:📊 MU · Micron Technology\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-MU-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: MU\n公司: 美光科技\n财报日期: 2026-12-
@@ -828,7 +800,7 @@ DESCRIPTION:股票代码: MU\n公司: 美光科技\n财报日期: 2026-12-
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
  务期间\n每股收益预期: 38.29\n营收预期: 6.183e+10\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/MU/\n最后更新: 2026-11-13T19:26:49+00:00
+ ote/MU/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/MU/
 END:VEVENT
@@ -836,21 +808,21 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 PCE
 DTSTART:20261223T133000Z
 DTEND:20261223T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-CORE_PCE-2026-11@finance-calendar
 CATEGORIES:MACRO,CORE_PCE
 DESCRIPTION:指标: 核心 PCE 物价指数\n发布项目: 个人收入与
  支出，2026年十一月\n数据所属期: 2026-11\n本地时间（Asia/T
  okyo）: 2026-12-23 22:30 JST\n来源: 美国经济分析局（BEA）\n来
- 源链接: https://www.bea.gov/news/schedule\n最后更新: 2026-11-12T19:
- 44:00+00:00
+ 源链接: https://www.bea.gov/news/schedule\n最后更新: 2026-11-14T04:
+ 34:42+00:00
 URL:https://www.bea.gov/news/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 GDP · Third Estimate
 DTSTART:20261223T133000Z
 DTEND:20261223T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-GDP-2026-Q3-third-estimate@finance-calendar
 CATEGORIES:MACRO,GDP
 DESCRIPTION:发布项目: 国内生产总值（GDP）终值，行业数据
@@ -858,28 +830,28 @@ DESCRIPTION:发布项目: 国内生产总值（GDP）终值，行业数据
  \n估值阶段: 终值\n数据所属期: 2026-Q3-third-estimate\n本地时
  间（Asia/Tokyo）: 2026-12-23 22:30 JST\n来源: 美国经济分析局
  （BEA）\n来源链接: https://www.bea.gov/news/schedule\n最后更新: 
- 2026-11-12T19:44:00+00:00
+ 2026-11-14T04:34:42+00:00
 URL:https://www.bea.gov/news/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 PCE
 DTSTART:20261223T133000Z
 DTEND:20261223T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-PCE-2026-11@finance-calendar
 CATEGORIES:MACRO,PCE
 DESCRIPTION:指标: PCE 物价指数\n发布项目: 个人收入与支出
  ，2026年十一月\n数据所属期: 2026-11\n本地时间（Asia/Tokyo
  ）: 2026-12-23 22:30 JST\n来源: 美国经济分析局（BEA）\n来源
- 链接: https://www.bea.gov/news/schedule\n最后更新: 2026-11-12T19:44:
- 00+00:00
+ 链接: https://www.bea.gov/news/schedule\n最后更新: 2026-11-14T04:34:
+ 42+00:00
 URL:https://www.bea.gov/news/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261224T133000Z
 DTEND:20261224T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-12-19@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -887,7 +859,7 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  12-24 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
@@ -923,21 +895,21 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20261230T190000Z
 DTEND:20261230T193000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_MINUTES-2026-08@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2026-08\n会
  议结束日期: 2026-12-09\n日期确定方式: 美联储会后三周发
  布规则\n本地时间（Asia/Tokyo）: 2026-12-31 04:00 JST\n来源: 美
  国联邦储备委员会\n来源链接: https://www.federalreserve.gov/mon
- etarypolicy/fomccalendars.htm\n最后更新: 2026-11-12T19:44:00+00:00
+ etarypolicy/fomccalendars.htm\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261231T133000Z
 DTEND:20261231T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2026-12-26@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -945,7 +917,7 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2026-
  12-31 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
@@ -966,15 +938,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270104T150000Z
 DTEND:20270104T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-01@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  01\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-01-05 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -982,15 +954,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270106T150000Z
 DTEND:20270106T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-01@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  01\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-01-07 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -998,7 +970,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270107T133000Z
 DTEND:20270107T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2027-01-02@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1006,14 +978,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2027-
  01-07 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 TSM · Taiwan Semiconductor Manufactur 财报 [TAS]
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-TSM-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: TSM\n公司: 台积电\n财报日期: 2027-01-14
@@ -1021,7 +993,7 @@ DESCRIPTION:股票代码: TSM\n公司: 台积电\n财报日期: 2027-01-14
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
  务期间\n每股收益预期: 5.164\n营收预期: 1.708e+12\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/TSM/\n最后更新: 2026-11-13T19:26:49+00:00
+ ote/TSM/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/TSM/
 END:VEVENT
@@ -1029,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270114T133000Z
 DTEND:20270114T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2027-01-09@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1037,20 +1009,20 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2027-
  01-14 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270115T133000Z
 DTEND:20270115T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2026-12@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2026年十二
  月\n数据所属期: 2026-12\n本地时间（Asia/Tokyo）: 2027-01-15 22
  :30 JST\n来源: 美国人口普查局\n来源链接: https://www.census.g
- ov/retail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ ov/retail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1072,7 +1044,7 @@ BEGIN:VEVENT
 SUMMARY:📊 NFLX · Netflix\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-NFLX-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: NFLX\n公司: Netflix\, Inc.\n财报日期: 2027
@@ -1080,7 +1052,7 @@ DESCRIPTION:股票代码: NFLX\n公司: Netflix\, Inc.\n财报日期: 2027
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 0.6758\n营收预期: 1.345e+10\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/NFLX/\n最后更新: 2026-11-13T19:26:49+00:00
+ o.com/quote/NFLX/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/NFLX/
 END:VEVENT
@@ -1088,7 +1060,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270121T133000Z
 DTEND:20270121T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2027-01-16@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1096,14 +1068,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2027-
  01-21 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 TXN · Texas Instruments Incorporated 财报 [TAS]
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-TXN-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: TXN\n公司: Texas Instruments Incorporated\n财
@@ -1111,7 +1083,7 @@ DESCRIPTION:股票代码: TXN\n公司: Texas Instruments Incorporated\n财
  2027年第1季度\n财务季度来源: 采用自然季度备用值；雅
  虎财经未提供财务期间\n每股收益预期: 2.665\n营收预期: 6
  .068e+09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https:/
- /finance.yahoo.com/quote/TXN/\n最后更新: 2026-11-13T19:26:49+00:00
+ /finance.yahoo.com/quote/TXN/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/TXN/
 END:VEVENT
@@ -1119,13 +1091,13 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC-MEETING-2027-01@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  01-26 至 2027-01-27\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -1133,7 +1105,7 @@ BEGIN:VEVENT
 SUMMARY:📊 000660.KS · SK hynix 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-000660.KS-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: 000660.KS\n公司: SK hynix\n财报日期: 2027-
@@ -1141,7 +1113,7 @@ DESCRIPTION:股票代码: 000660.KS\n公司: SK hynix\n财报日期: 2027-
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 1.186e+05\n营收预期: 1.311e+14\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/000660.KS/\n最后更新: 2026-11-13T19:26:49+00:00
+ ahoo.com/quote/000660.KS/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/000660.KS/
 END:VEVENT
@@ -1149,7 +1121,7 @@ BEGIN:VEVENT
 SUMMARY:📊 005930.KS · SamsungElec 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-005930.KS-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: 005930.KS\n公司: SamsungElec\n财报日期: 20
@@ -1157,7 +1129,7 @@ DESCRIPTION:股票代码: 005930.KS\n公司: SamsungElec\n财报日期: 20
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 1.648e+04\n营收预期: 2.246e+14
  \n来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance
- .yahoo.com/quote/005930.KS/\n最后更新: 2026-11-13T19:26:49+00:00
+ .yahoo.com/quote/005930.KS/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/005930.KS/
 END:VEVENT
@@ -1165,7 +1137,7 @@ BEGIN:VEVENT
 SUMMARY:📊 ASML · ASML Holding N.V. - New York Re 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-ASML-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: ASML\n公司: ASML Holding N.V. - New York Re\n
@@ -1173,7 +1145,7 @@ DESCRIPTION:股票代码: ASML\n公司: ASML Holding N.V. - New York Re\n
  度: 2027年第1季度\n财务季度来源: 采用自然季度备用值；
  雅虎财经未提供财务期间\n每股收益预期: 15.39\n营收预期
  : 1.482e+10\n来源: 雅虎财经（通过 yfinance）\n来源链接: http
- s://finance.yahoo.com/quote/ASML/\n最后更新: 2026-11-13T19:26:49+00:00
+ s://finance.yahoo.com/quote/ASML/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/ASML/
 END:VEVENT
@@ -1181,7 +1153,7 @@ BEGIN:VEVENT
 SUMMARY:📊 LRCX · Lam Research Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-LRCX-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: LRCX\n公司: Lam Research Corporation\n财报
@@ -1189,7 +1161,7 @@ DESCRIPTION:股票代码: LRCX\n公司: Lam Research Corporation\n财报
  7年第1季度\n财务季度来源: 采用自然季度备用值；雅虎
  财经未提供财务期间\n每股收益预期: 2.349\n营收预期: 8.64
  4e+09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://fi
- nance.yahoo.com/quote/LRCX/\n最后更新: 2026-11-13T19:26:49+00:00
+ nance.yahoo.com/quote/LRCX/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/LRCX/
 END:VEVENT
@@ -1197,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:📊 META · Meta Platforms\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-META-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: META\n公司: 脸书母公司\n财报日期: 202
@@ -1205,7 +1177,7 @@ DESCRIPTION:股票代码: META\n公司: 脸书母公司\n财报日期: 202
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 8.719\n营收预期: 7.516e+10\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/META/\n最后更新: 2026-11-13T19:26:49+00:00
+ o.com/quote/META/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/META/
 END:VEVENT
@@ -1213,15 +1185,15 @@ BEGIN:VEVENT
 SUMMARY:📊 MSFT · Microsoft Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-MSFT-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: MSFT\n公司: 微软\n财报日期: 2027-01-27\n
  财报时段: 时间待定（TAS）\n财务季度: 2027年第1季度\n财
  务季度来源: 采用自然季度备用值；雅虎财经未提供财务
- 期间\n每股收益预期: 4.856\n营收预期: 9.669e+10\n来源: 雅虎
+ 期间\n每股收益预期: 4.858\n营收预期: 9.669e+10\n来源: 雅虎
  财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
- /MSFT/\n最后更新: 2026-11-13T19:26:49+00:00
+ /MSFT/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/MSFT/
 END:VEVENT
@@ -1229,7 +1201,7 @@ BEGIN:VEVENT
 SUMMARY:📊 NOW · ServiceNow\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-NOW-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: NOW\n公司: ServiceNow\, Inc.\n财报日期: 20
@@ -1237,7 +1209,7 @@ DESCRIPTION:股票代码: NOW\n公司: ServiceNow\, Inc.\n财报日期: 20
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 1.072\n营收预期: 4.371e+09\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/NOW/\n最后更新: 2026-11-13T19:26:49+00:00
+ ahoo.com/quote/NOW/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/NOW/
 END:VEVENT
@@ -1245,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:📊 TSLA · Tesla\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-TSLA-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: TSLA\n公司: Tesla\, Inc.\n财报日期: 2027-0
@@ -1253,7 +1225,7 @@ DESCRIPTION:股票代码: TSLA\n公司: Tesla\, Inc.\n财报日期: 2027-0
  \n财务季度来源: 采用自然季度备用值；雅虎财经未提供
  财务期间\n每股收益预期: 0.5001\n营收预期: 2.931e+10\n来源:
   雅虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.co
- m/quote/TSLA/\n最后更新: 2026-11-13T19:26:49+00:00
+ m/quote/TSLA/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/TSLA/
 END:VEVENT
@@ -1261,21 +1233,21 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270127T190000Z
 DTEND:20270127T200000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_DECISION-2027-01@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-01\n会议结束日期: 2027-01-27\n本地时间（Asia/Tokyo）: 2027-0
  1-28 04:00 JST\n来源: 美国联邦储备委员会\n来源链接: https:/
  /www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 AAPL · Apple Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-AAPL-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AAPL\n公司: 苹果\n财报日期: 2027-01-28\n
@@ -1283,7 +1255,7 @@ DESCRIPTION:股票代码: AAPL\n公司: 苹果\n财报日期: 2027-01-28\n
  务季度来源: 采用自然季度备用值；雅虎财经未提供财务
  期间\n每股收益预期: 2.911\n营收预期: 1.564e+11\n来源: 雅虎
  财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
- /AAPL/\n最后更新: 2026-11-13T19:26:49+00:00
+ /AAPL/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AAPL/
 END:VEVENT
@@ -1291,7 +1263,7 @@ BEGIN:VEVENT
 SUMMARY:📊 INTC · Intel Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-INTC-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: INTC\n公司: Intel Corporation\n财报日期: 2
@@ -1299,7 +1271,7 @@ DESCRIPTION:股票代码: INTC\n公司: Intel Corporation\n财报日期: 2
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 0.249\n营收预期: 1.562e+10\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/INTC/\n最后更新: 2026-11-13T19:26:49+00:00
+ ahoo.com/quote/INTC/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/INTC/
 END:VEVENT
@@ -1307,7 +1279,7 @@ BEGIN:VEVENT
 SUMMARY:📊 KLAC · KLA Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-KLAC-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: KLAC\n公司: KLA Corporation\n财报日期: 202
@@ -1315,7 +1287,7 @@ DESCRIPTION:股票代码: KLAC\n公司: KLA Corporation\n财报日期: 202
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 1.449\n营收预期: 4.72e+09\n来源
  : 雅虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.c
- om/quote/KLAC/\n最后更新: 2026-11-13T19:26:49+00:00
+ om/quote/KLAC/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/KLAC/
 END:VEVENT
@@ -1323,7 +1295,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270128T133000Z
 DTEND:20270128T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2027-01-23@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1331,14 +1303,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2027-
  01-28 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 PLTR · Palantir Technologies Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-PLTR-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: PLTR\n公司: Palantir Technologies Inc.\n财报
@@ -1346,7 +1318,7 @@ DESCRIPTION:股票代码: PLTR\n公司: Palantir Technologies Inc.\n财报
  7年第1季度\n财务季度来源: 采用自然季度备用值；雅虎
  财经未提供财务期间\n每股收益预期: 0.5202\n营收预期: 2.6
  7e+09\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://fi
- nance.yahoo.com/quote/PLTR/\n最后更新: 2026-11-13T19:26:49+00:00
+ nance.yahoo.com/quote/PLTR/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/PLTR/
 END:VEVENT
@@ -1354,15 +1326,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270201T150000Z
 DTEND:20270201T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-02@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  02\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-02-02 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1370,7 +1342,7 @@ BEGIN:VEVENT
 SUMMARY:📊 AMD · Advanced Micro Devices\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-AMD-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AMD\n公司: 超威半导体\n财报日期: 2027
@@ -1378,7 +1350,7 @@ DESCRIPTION:股票代码: AMD\n公司: 超威半导体\n财报日期: 2027
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 2.928\n营收预期: 1.706e+10\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/AMD/\n最后更新: 2026-11-13T19:26:49+00:00
+ o.com/quote/AMD/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AMD/
 END:VEVENT
@@ -1386,7 +1358,7 @@ BEGIN:VEVENT
 SUMMARY:📊 SMCI · Super Micro Computer\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-SMCI-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: SMCI\n公司: Super Micro Computer\, Inc.\n财
@@ -1394,7 +1366,7 @@ DESCRIPTION:股票代码: SMCI\n公司: Super Micro Computer\, Inc.\n财
  2027年第1季度\n财务季度来源: 采用自然季度备用值；雅
  虎财经未提供财务期间\n每股收益预期: 1.781\n营收预期: 2
  .045e+10\n来源: 雅虎财经（通过 yfinance）\n来源链接: https:/
- /finance.yahoo.com/quote/SMCI/\n最后更新: 2026-11-13T19:26:49+00:00
+ /finance.yahoo.com/quote/SMCI/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/SMCI/
 END:VEVENT
@@ -1402,7 +1374,7 @@ BEGIN:VEVENT
 SUMMARY:📊 ARM · Arm Holdings plc 财报 [TAS]
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-ARM-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: ARM\n公司: Arm Holdings plc\n财报日期: 202
@@ -1410,7 +1382,7 @@ DESCRIPTION:股票代码: ARM\n公司: Arm Holdings plc\n财报日期: 202
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 0.5635\n营收预期: 1.538e+09\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/ARM/\n最后更新: 2026-11-13T19:26:49+00:00
+ o.com/quote/ARM/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/ARM/
 END:VEVENT
@@ -1418,7 +1390,7 @@ BEGIN:VEVENT
 SUMMARY:📊 COHR · Coherent Corp. 财报 [TAS]
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-COHR-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: COHR\n公司: Coherent Corp.\n财报日期: 2027
@@ -1426,7 +1398,7 @@ DESCRIPTION:股票代码: COHR\n公司: Coherent Corp.\n财报日期: 2027
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 2.403\n营收预期: 2.645e+09\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/COHR/\n最后更新: 2026-11-13T19:26:49+00:00
+ o.com/quote/COHR/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/COHR/
 END:VEVENT
@@ -1434,7 +1406,7 @@ BEGIN:VEVENT
 SUMMARY:📊 QCOM · QUALCOMM Incorporated 财报 [TAS]
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-QCOM-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: QCOM\n公司: QUALCOMM Incorporated\n财报日
@@ -1442,7 +1414,7 @@ DESCRIPTION:股票代码: QCOM\n公司: QUALCOMM Incorporated\n财报日
  年第1季度\n财务季度来源: 采用自然季度备用值；雅虎财
  经未提供财务期间\n每股收益预期: 2.256\n营收预期: 1.082e+
  10\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://finan
- ce.yahoo.com/quote/QCOM/\n最后更新: 2026-11-13T19:26:49+00:00
+ ce.yahoo.com/quote/QCOM/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/QCOM/
 END:VEVENT
@@ -1450,15 +1422,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270203T150000Z
 DTEND:20270203T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-02@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  02\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-02-04 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1466,7 +1438,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270204T133000Z
 DTEND:20270204T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2027-01-30@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1474,22 +1446,22 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2027-
  02-04 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 AMAT · Applied Materials\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261113T192649Z
+DTSTAMP:20261114T043442Z
 UID:earnings-AMAT-2027Q1@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AMAT\n公司: Applied Materials\, Inc.\n财报
  日期: 2027-02-11\n财报时段: 时间待定（TAS）\n财务季度: 202
  7年第1季度\n财务季度来源: 采用自然季度备用值；雅虎
- 财经未提供财务期间\n每股收益预期: 4.299\n营收预期: 1.09
+ 财经未提供财务期间\n每股收益预期: 4.339\n营收预期: 1.10
  5e+10\n来源: 雅虎财经（通过 yfinance）\n来源链接: https://fi
- nance.yahoo.com/quote/AMAT/\n最后更新: 2026-11-13T19:26:49+00:00
+ nance.yahoo.com/quote/AMAT/\n最后更新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AMAT/
 END:VEVENT
@@ -1497,7 +1469,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270211T133000Z
 DTEND:20270211T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2027-02-06@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1505,7 +1477,7 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2027-
  02-11 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
@@ -1526,34 +1498,34 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270217T133000Z
 DTEND:20270217T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-01@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年一月\n
  数据所属期: 2027-01\n本地时间（Asia/Tokyo）: 2027-02-17 22:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20270217T190000Z
 DTEND:20270217T193000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_MINUTES-2027-01@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-01\n会
  议结束日期: 2027-01-27\n日期确定方式: 美联储会后三周发
  布规则\n本地时间（Asia/Tokyo）: 2027-02-18 04:00 JST\n来源: 美
  国联邦储备委员会\n来源链接: https://www.federalreserve.gov/mon
- etarypolicy/fomccalendars.htm\n最后更新: 2026-11-12T19:44:00+00:00
+ etarypolicy/fomccalendars.htm\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270218T133000Z
 DTEND:20270218T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2027-02-13@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1561,14 +1533,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2027-
  02-18 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270225T133000Z
 DTEND:20270225T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2027-02-20@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1576,22 +1548,22 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2027-
  02-25 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270301T150000Z
 DTEND:20270301T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-03@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  03\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-03-02 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1599,15 +1571,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270303T150000Z
 DTEND:20270303T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-03@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  03\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-03-04 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1615,7 +1587,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270304T133000Z
 DTEND:20270304T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-JOBLESS_CLAIMS-2027-02-27@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1623,20 +1595,20 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n本地时间（Asia/Tokyo）: 2027-
  03-04 22:30 JST\n来源: 美国劳工部就业与培训管理局（ETA）\
  n来源链接: https://www.dol.gov/newsroom/releases/eta\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270318
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC-MEETING-2027-02@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  03-16 至 2027-03-17\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -1644,27 +1616,27 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270316T123000Z
 DTEND:20270316T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-02@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年二月\n
  数据所属期: 2027-02\n本地时间（Asia/Tokyo）: 2027-03-16 21:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270317T180000Z
 DTEND:20270317T190000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_DECISION-2027-02@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-02\n会议结束日期: 2027-03-17\n本地时间（Asia/Tokyo）: 2027-0
  3-18 03:00 JST\n来源: 美国联邦储备委员会\n来源链接: https:/
  /www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
@@ -1700,15 +1672,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270401T140000Z
 DTEND:20270401T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-04@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  04\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-04-01 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1716,15 +1688,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270405T140000Z
 DTEND:20270405T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-04@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  04\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-04-05 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1732,40 +1704,40 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20270407T180000Z
 DTEND:20270407T183000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_MINUTES-2027-02@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-02\n会
  议结束日期: 2027-03-17\n日期确定方式: 美联储会后三周发
  布规则\n本地时间（Asia/Tokyo）: 2027-04-08 03:00 JST\n来源: 美
  国联邦储备委员会\n来源链接: https://www.federalreserve.gov/mon
- etarypolicy/fomccalendars.htm\n最后更新: 2026-11-12T19:44:00+00:00
+ etarypolicy/fomccalendars.htm\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270416T123000Z
 DTEND:20270416T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-03@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年三月\n
  数据所属期: 2027-03\n本地时间（Asia/Tokyo）: 2027-04-16 21:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270429
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC-MEETING-2027-03@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  04-27 至 2027-04-28\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -1773,29 +1745,29 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270428T180000Z
 DTEND:20270428T190000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_DECISION-2027-03@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-03\n会议结束日期: 2027-04-28\n本地时间（Asia/Tokyo）: 2027-0
  4-29 03:00 JST\n来源: 美国联邦储备委员会\n来源链接: https:/
  /www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270503T140000Z
 DTEND:20270503T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-05@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  05\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-05-03 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1803,15 +1775,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270505T140000Z
 DTEND:20270505T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-05@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  05\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-05-05 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1819,27 +1791,27 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270514T123000Z
 DTEND:20270514T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-04@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年四月\n
  数据所属期: 2027-04\n本地时间（Asia/Tokyo）: 2027-05-14 21:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20270519T180000Z
 DTEND:20270519T183000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_MINUTES-2027-03@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-03\n会
  议结束日期: 2027-04-28\n日期确定方式: 美联储会后三周发
  布规则\n本地时间（Asia/Tokyo）: 2027-05-20 03:00 JST\n来源: 美
  国联邦储备委员会\n来源链接: https://www.federalreserve.gov/mon
- etarypolicy/fomccalendars.htm\n最后更新: 2026-11-12T19:44:00+00:00
+ etarypolicy/fomccalendars.htm\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
@@ -1860,15 +1832,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270601T140000Z
 DTEND:20270601T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-06@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  06\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-06-01 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1876,15 +1848,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270603T140000Z
 DTEND:20270603T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-06@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  06\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-06-03 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1892,13 +1864,13 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270610
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC-MEETING-2027-04@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  06-08 至 2027-06-09\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -1906,27 +1878,27 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270609T180000Z
 DTEND:20270609T190000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_DECISION-2027-04@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-04\n会议结束日期: 2027-06-09\n本地时间（Asia/Tokyo）: 2027-0
  6-10 03:00 JST\n来源: 美国联邦储备委员会\n来源链接: https:/
  /www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270616T123000Z
 DTEND:20270616T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-05@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年五月\n
  数据所属期: 2027-05\n本地时间（Asia/Tokyo）: 2027-06-16 21:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1962,29 +1934,29 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20270630T180000Z
 DTEND:20270630T183000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_MINUTES-2027-04@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-04\n会
  议结束日期: 2027-06-09\n日期确定方式: 美联储会后三周发
  布规则\n本地时间（Asia/Tokyo）: 2027-07-01 03:00 JST\n来源: 美
  国联邦储备委员会\n来源链接: https://www.federalreserve.gov/mon
- etarypolicy/fomccalendars.htm\n最后更新: 2026-11-12T19:44:00+00:00
+ etarypolicy/fomccalendars.htm\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270701T140000Z
 DTEND:20270701T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-07@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  07\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-07-01 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2006,15 +1978,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270706T140000Z
 DTEND:20270706T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-07@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  07\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-07-06 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2022,26 +1994,26 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270716T123000Z
 DTEND:20270716T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-06@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年六月\n
  数据所属期: 2027-06\n本地时间（Asia/Tokyo）: 2027-07-16 21:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270729
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC-MEETING-2027-05@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  07-27 至 2027-07-28\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -2049,29 +2021,29 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270728T180000Z
 DTEND:20270728T190000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_DECISION-2027-05@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-05\n会议结束日期: 2027-07-28\n本地时间（Asia/Tokyo）: 2027-0
  7-29 03:00 JST\n来源: 美国联邦储备委员会\n来源链接: https:/
  /www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270802T140000Z
 DTEND:20270802T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-08@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  08\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-08-02 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2079,15 +2051,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270804T140000Z
 DTEND:20270804T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-08@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  08\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-08-04 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2095,42 +2067,42 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270816T123000Z
 DTEND:20270816T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-07@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年七月\n
  数据所属期: 2027-07\n本地时间（Asia/Tokyo）: 2027-08-16 21:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20270818T180000Z
 DTEND:20270818T183000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_MINUTES-2027-05@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-05\n会
  议结束日期: 2027-07-28\n日期确定方式: 美联储会后三周发
  布规则\n本地时间（Asia/Tokyo）: 2027-08-19 03:00 JST\n来源: 美
  国联邦储备委员会\n来源链接: https://www.federalreserve.gov/mon
- etarypolicy/fomccalendars.htm\n最后更新: 2026-11-12T19:44:00+00:00
+ etarypolicy/fomccalendars.htm\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270901T140000Z
 DTEND:20270901T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-09@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  09\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-09-01 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2138,15 +2110,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270903T140000Z
 DTEND:20270903T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-09@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  09\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-09-03 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2168,13 +2140,13 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC-MEETING-2027-06@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  09-14 至 2027-09-15\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -2182,27 +2154,27 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270915T180000Z
 DTEND:20270915T190000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_DECISION-2027-06@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-06\n会议结束日期: 2027-09-15\n本地时间（Asia/Tokyo）: 2027-0
  9-16 03:00 JST\n来源: 美国联邦储备委员会\n来源链接: https:/
  /www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270916T123000Z
 DTEND:20270916T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-08@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年八月\n
  数据所属期: 2027-08\n本地时间（Asia/Tokyo）: 2027-09-16 21:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
@@ -2224,15 +2196,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20271001T140000Z
 DTEND:20271001T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-10@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  10\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-10-01 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2240,15 +2212,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20271005T140000Z
 DTEND:20271005T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-10@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  10\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-10-05 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2256,40 +2228,40 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20271006T180000Z
 DTEND:20271006T183000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_MINUTES-2027-06@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-06\n会
  议结束日期: 2027-09-15\n日期确定方式: 美联储会后三周发
  布规则\n本地时间（Asia/Tokyo）: 2027-10-07 03:00 JST\n来源: 美
  国联邦储备委员会\n来源链接: https://www.federalreserve.gov/mon
- etarypolicy/fomccalendars.htm\n最后更新: 2026-11-12T19:44:00+00:00
+ etarypolicy/fomccalendars.htm\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20271015T123000Z
 DTEND:20271015T130000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-09@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年九月\n
  数据所属期: 2027-09\n本地时间（Asia/Tokyo）: 2027-10-15 21:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20271026
 DTEND;VALUE=DATE:20271028
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC-MEETING-2027-07@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  10-26 至 2027-10-27\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -2297,29 +2269,29 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20271027T180000Z
 DTEND:20271027T190000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_DECISION-2027-07@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-07\n会议结束日期: 2027-10-27\n本地时间（Asia/Tokyo）: 2027-1
  0-28 03:00 JST\n来源: 美国联邦储备委员会\n来源链接: https:/
  /www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20271101T140000Z
 DTEND:20271101T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-11@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  11\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-11-01 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2327,15 +2299,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20271103T140000Z
 DTEND:20271103T143000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-11@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  11\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-11-03 23:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2343,13 +2315,13 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20271116
 DTEND;VALUE=DATE:20271118
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC-MEETING-2027-08@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  11-16 至 2027-11-17\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-12T19:44:00+00:00
+ 新: 2026-11-14T04:34:42+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -2357,41 +2329,41 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20271116T133000Z
 DTEND:20271116T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-10@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年十月\n
  数据所属期: 2027-10\n本地时间（Asia/Tokyo）: 2027-11-16 22:30 J
  ST\n来源: 美国人口普查局\n来源链接: https://www.census.gov/re
- tail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ tail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20271117T190000Z
 DTEND:20271117T200000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_DECISION-2027-08@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-08\n会议结束日期: 2027-11-17\n本地时间（Asia/Tokyo）: 2027-1
  1-18 04:00 JST\n来源: 美国联邦储备委员会\n来源链接: https:/
  /www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 20
- 26-11-12T19:44:00+00:00
+ 26-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20271117T190000Z
 DTEND:20271117T193000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_MINUTES-2027-07@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-07\n会
  议结束日期: 2027-10-27\n日期确定方式: 美联储会后三周发
  布规则\n本地时间（Asia/Tokyo）: 2027-11-18 04:00 JST\n来源: 美
  国联邦储备委员会\n来源链接: https://www.federalreserve.gov/mon
- etarypolicy/fomccalendars.htm\n最后更新: 2026-11-12T19:44:00+00:00
+ etarypolicy/fomccalendars.htm\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
@@ -2427,15 +2399,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20271201T150000Z
 DTEND:20271201T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_MANUFACTURING-2027-12@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  12\n日期确定方式: 备用规则：ISM 每月第一个工作日\n本
  地时间（Asia/Tokyo）: 2027-12-02 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2443,15 +2415,15 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20271203T150000Z
 DTEND:20271203T153000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-ISM_SERVICES-2027-12@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  12\n日期确定方式: 备用规则：ISM 每月第三个工作日\n本
  地时间（Asia/Tokyo）: 2027-12-04 00:00 JST\n来源: 美国供应管
  理协会（ISM）\n来源链接: https://www.ismworld.org/supply-manageme
- nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-12
- T19:44:00+00:00
+ nt-news-and-reports/reports/rob-report-calendar/\n最后更新: 2026-11-14
+ T04:34:42+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -2459,27 +2431,27 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20271208T190000Z
 DTEND:20271208T193000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-FOMC_MINUTES-2027-08@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-08\n会
  议结束日期: 2027-11-17\n日期确定方式: 美联储会后三周发
  布规则\n本地时间（Asia/Tokyo）: 2027-12-09 04:00 JST\n来源: 美
  国联邦储备委员会\n来源链接: https://www.federalreserve.gov/mon
- etarypolicy/fomccalendars.htm\n最后更新: 2026-11-12T19:44:00+00:00
+ etarypolicy/fomccalendars.htm\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20271215T133000Z
 DTEND:20271215T140000Z
-DTSTAMP:20261112T194400Z
+DTSTAMP:20261114T043442Z
 UID:macro-US-RETAIL_SALES-2027-11@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年十一
  月\n数据所属期: 2027-11\n本地时间（Asia/Tokyo）: 2027-12-15 22
  :30 JST\n来源: 美国人口普查局\n来源链接: https://www.census.g
- ov/retail/release_schedule.html\n最后更新: 2026-11-12T19:44:00+00:00
+ ov/retail/release_schedule.html\n最后更新: 2026-11-14T04:34:42+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
