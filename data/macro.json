@@ -77,24 +77,6 @@
       "category": "macro",
       "description": {
         "Indicator": "Core Producer Price Index",
-        "Reference Period": "2026-09",
-        "Release": "Producer Price Index for September 2026"
-      },
-      "end": "2026-10-15T09:00:00-04:00",
-      "kind": "core_ppi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
-      "start": "2026-10-15T08:30:00-04:00",
-      "summary": "🇺🇸 美国核心 PPI",
-      "uid": "macro-US-CORE_PPI-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Core Producer Price Index",
         "Reference Period": "2026-10",
         "Release": "Producer Price Index for October 2026"
       },
@@ -1246,25 +1228,6 @@
       "all_day": false,
       "category": "macro",
       "description": {
-        "Reference Period": "2026-10-10",
-        "Reference Week Ending": "2026-10-10",
-        "Release": "Unemployment Insurance Weekly Claims Report",
-        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
-      },
-      "end": "2026-10-15T09:00:00-04:00",
-      "kind": "jobless_claims",
-      "metadata": {},
-      "scope": "macro:dol-claims",
-      "source": "U.S. Department of Labor (ETA)",
-      "source_url": "https://www.dol.gov/newsroom/releases/eta",
-      "start": "2026-10-15T08:30:00-04:00",
-      "summary": "🇺🇸 美国初请失业金人数",
-      "uid": "macro-US-JOBLESS_CLAIMS-2026-10-10@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
         "Reference Period": "2026-10-17",
         "Reference Week Ending": "2026-10-17",
         "Release": "Unemployment Insurance Weekly Claims Report",
@@ -1718,24 +1681,6 @@
       "category": "macro",
       "description": {
         "Indicator": "Producer Price Index",
-        "Reference Period": "2026-09",
-        "Release": "Producer Price Index for September 2026"
-      },
-      "end": "2026-10-15T09:00:00-04:00",
-      "kind": "ppi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
-      "start": "2026-10-15T08:30:00-04:00",
-      "summary": "🇺🇸 美国 PPI",
-      "uid": "macro-US-PPI-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Producer Price Index",
         "Reference Period": "2026-10",
         "Release": "Producer Price Index for October 2026"
       },
@@ -1766,23 +1711,6 @@
       "start": "2026-12-15T08:30:00-05:00",
       "summary": "🇺🇸 美国 PPI",
       "uid": "macro-US-PPI-2026-11@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Reference Period": "2026-09",
-        "Release": "Advance Monthly Retail Trade Report, September 2026"
-      },
-      "end": "2026-10-15T09:00:00-04:00",
-      "kind": "retail_sales",
-      "metadata": {},
-      "scope": "macro:census",
-      "source": "U.S. Census Bureau",
-      "source_url": "https://www.census.gov/retail/release_schedule.html",
-      "start": "2026-10-15T08:30:00-04:00",
-      "summary": "🇺🇸 美国零售销售",
-      "uid": "macro-US-RETAIL_SALES-2026-09@finance-calendar"
     },
     {
       "all_day": false,
@@ -2059,6 +1987,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-14T04:34:42+00:00",
+  "updated_at": "2026-11-15T04:23:48+00:00",
   "version": 1
 }
