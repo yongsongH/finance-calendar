@@ -10,7 +10,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.311e+14",
+        "Revenue Estimate": "1.309e+14",
         "Ticker": "000660.KS"
       },
       "end": "2027-01-28",
@@ -83,12 +83,12 @@
       "category": "earnings",
       "description": {
         "Company": "Applied Materials, Inc.",
-        "EPS Estimate": "4.348",
+        "EPS Estimate": "4.356",
         "Earnings Date": "2027-02-11",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.108e+10",
+        "Revenue Estimate": "1.11e+10",
         "Ticker": "AMAT"
       },
       "end": "2027-02-12",
@@ -270,7 +270,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.645e+09",
+        "Revenue Estimate": "2.654e+09",
         "Ticker": "COHR"
       },
       "end": "2027-02-04",
@@ -499,7 +499,7 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.858",
+        "EPS Estimate": "4.856",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -759,12 +759,12 @@
       "category": "earnings",
       "description": {
         "Company": "Tesla, Inc.",
-        "EPS Estimate": "0.5001",
+        "EPS Estimate": "0.499",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.931e+10",
+        "Revenue Estimate": "2.929e+10",
         "Ticker": "TSLA"
       },
       "end": "2027-01-28",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-15T04:23:48+00:00",
+  "updated_at": "2026-11-15T18:40:43+00:00",
   "version": 1
 }
