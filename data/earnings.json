@@ -10,7 +10,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.309e+14",
+        "Revenue Estimate": "1.307e+14",
         "Ticker": "000660.KS"
       },
       "end": "2027-01-28",
@@ -83,12 +83,12 @@
       "category": "earnings",
       "description": {
         "Company": "Applied Materials, Inc.",
-        "EPS Estimate": "4.356",
+        "EPS Estimate": "4.363",
         "Earnings Date": "2027-02-11",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.11e+10",
+        "Revenue Estimate": "1.111e+10",
         "Ticker": "AMAT"
       },
       "end": "2027-02-12",
@@ -317,7 +317,7 @@
       "category": "earnings",
       "description": {
         "Company": "Dell Technologies Inc.",
-        "EPS Estimate": "6.554",
+        "EPS Estimate": "6.578",
         "Earnings Date": "2026-11-24",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -343,12 +343,12 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.267",
+        "EPS Estimate": "3.246",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.424e+11",
+        "Revenue Estimate": "1.431e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -452,7 +452,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "7.516e+10",
+        "Revenue Estimate": "7.513e+10",
         "Ticker": "META"
       },
       "end": "2027-01-28",
@@ -660,7 +660,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.67e+09",
+        "Revenue Estimate": "2.672e+09",
         "Ticker": "PLTR"
       },
       "end": "2027-02-02",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-15T18:40:43+00:00",
+  "updated_at": "2026-11-16T21:50:53+00:00",
   "version": 1
 }
