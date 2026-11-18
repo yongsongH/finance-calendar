@@ -501,7 +501,7 @@
         "Meeting End Date": "2026-10-28",
         "Reference Period": "2026-07",
         "Release": "FOMC Minutes",
-        "Schedule Method": "Federal Reserve three-week publication policy"
+        "Schedule Method": "Official release date"
       },
       "end": "2026-11-18T14:30:00-05:00",
       "kind": "fomc_minutes",
@@ -1987,6 +1987,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-15T04:23:48+00:00",
+  "updated_at": "2026-11-18T20:15:59+00:00",
   "version": 1
 }

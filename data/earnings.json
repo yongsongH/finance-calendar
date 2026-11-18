@@ -343,7 +343,7 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.246",
+        "EPS Estimate": "3.24",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -452,7 +452,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "7.513e+10",
+        "Revenue Estimate": "7.514e+10",
         "Ticker": "META"
       },
       "end": "2027-01-28",
@@ -603,12 +603,12 @@
       "category": "earnings",
       "description": {
         "Company": "NVIDIA Corporation",
-        "EPS Estimate": "2.761",
+        "EPS Estimate": "2.884",
         "Earnings Date": "2026-11-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.249e+11",
+        "Revenue Estimate": "1.308e+11",
         "Ticker": "NVDA"
       },
       "end": "2026-11-18",
@@ -681,7 +681,7 @@
       "category": "earnings",
       "description": {
         "Company": "QUALCOMM Incorporated",
-        "EPS Estimate": "2.256",
+        "EPS Estimate": "2.255",
         "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -733,7 +733,7 @@
       "category": "earnings",
       "description": {
         "Company": "Snowflake Inc.",
-        "EPS Estimate": "0.5999",
+        "EPS Estimate": "0.6",
         "Earnings Date": "2026-12-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-18T05:34:29+00:00",
+  "updated_at": "2026-11-18T20:15:59+00:00",
   "version": 1
 }
