@@ -83,12 +83,12 @@
       "category": "earnings",
       "description": {
         "Company": "Applied Materials, Inc.",
-        "EPS Estimate": "4.369",
+        "EPS Estimate": "4.37",
         "Earnings Date": "2027-02-11",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.112e+10",
+        "Revenue Estimate": "1.113e+10",
         "Ticker": "AMAT"
       },
       "end": "2027-02-12",
@@ -317,12 +317,12 @@
       "category": "earnings",
       "description": {
         "Company": "Dell Technologies Inc.",
-        "EPS Estimate": "6.588",
+        "EPS Estimate": "6.552",
         "Earnings Date": "2026-11-24",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.92e+10",
+        "Revenue Estimate": "4.927e+10",
         "Ticker": "DELL"
       },
       "end": "2026-11-25",
@@ -478,7 +478,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.156e+09",
+        "Revenue Estimate": "3.152e+09",
         "Ticker": "MRVL"
       },
       "end": "2026-12-02",
@@ -526,14 +526,14 @@
       "description": {
         "Company": "Micron Technology, Inc.",
         "EPS Estimate": "38.29",
-        "Earnings Date": "2026-12-23",
+        "Earnings Date": "2026-12-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "6.183e+10",
         "Ticker": "MU"
       },
-      "end": "2026-12-24",
+      "end": "2026-12-18",
       "kind": "earnings",
       "metadata": {
         "company": "Micron Technology, Inc.",
@@ -542,7 +542,7 @@
       "scope": "earnings:MU",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/MU/",
-      "start": "2026-12-23",
+      "start": "2026-12-17",
       "summary": "📊 MU · Micron Technology, Inc. 财报 [TAS]",
       "uid": "earnings-MU-2026Q4@finance-calendar"
     },
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-19T20:19:03+00:00",
+  "updated_at": "2026-11-20T05:21:18+00:00",
   "version": 1
 }
