@@ -270,7 +270,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.654e+09",
+        "Revenue Estimate": "2.645e+09",
         "Ticker": "COHR"
       },
       "end": "2027-02-04",
@@ -551,7 +551,7 @@
       "category": "earnings",
       "description": {
         "Company": "Netflix, Inc.",
-        "EPS Estimate": "0.6758",
+        "EPS Estimate": "0.6757",
         "Earnings Date": "2027-01-19",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -842,7 +842,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.492e+09",
+        "Revenue Estimate": "4.488e+09",
         "Ticker": "VRT"
       },
       "end": "2026-10-29",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-21T05:13:47+00:00",
+  "updated_at": "2026-11-21T18:56:46+00:00",
   "version": 1
 }
