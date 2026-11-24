@@ -136,14 +136,14 @@
       "description": {
         "Company": "Amazon.com, Inc.",
         "EPS Estimate": "2.491",
-        "Earnings Date": "2026-10-29",
+        "Earnings Date": "2027-02-04",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "2.45e+11",
         "Ticker": "AMZN"
       },
-      "end": "2026-10-30",
+      "end": "2027-02-05",
       "kind": "earnings",
       "metadata": {
         "company": "Amazon.com, Inc.",
@@ -152,9 +152,9 @@
       "scope": "earnings:AMZN",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AMZN/",
-      "start": "2026-10-29",
+      "start": "2027-02-04",
       "summary": "📊 AMZN · Amazon.com, Inc. 财报 [TAS]",
-      "uid": "earnings-AMZN-2026Q4@finance-calendar"
+      "uid": "earnings-AMZN-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -162,14 +162,14 @@
       "description": {
         "Company": "Arista Networks, Inc.",
         "EPS Estimate": "1.287",
-        "Earnings Date": "2026-11-03",
+        "Earnings Date": "2027-02-09",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "3.973e+09",
         "Ticker": "ANET"
       },
-      "end": "2026-11-04",
+      "end": "2027-02-10",
       "kind": "earnings",
       "metadata": {
         "company": "Arista Networks, Inc.",
@@ -178,9 +178,9 @@
       "scope": "earnings:ANET",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/ANET/",
-      "start": "2026-11-03",
+      "start": "2027-02-09",
       "summary": "📊 ANET · Arista Networks, Inc. 财报 [TAS]",
-      "uid": "earnings-ANET-2026Q4@finance-calendar"
+      "uid": "earnings-ANET-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -270,7 +270,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.645e+09",
+        "Revenue Estimate": "2.654e+09",
         "Ticker": "COHR"
       },
       "end": "2027-02-04",
@@ -317,7 +317,7 @@
       "category": "earnings",
       "description": {
         "Company": "Dell Technologies Inc.",
-        "EPS Estimate": "6.552",
+        "EPS Estimate": "6.587",
         "Earnings Date": "2026-11-24",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -344,14 +344,14 @@
       "description": {
         "Company": "Alphabet Inc.",
         "EPS Estimate": "3.253",
-        "Earnings Date": "2026-10-28",
+        "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "1.423e+11",
         "Ticker": "GOOGL"
       },
-      "end": "2026-10-29",
+      "end": "2027-02-04",
       "kind": "earnings",
       "metadata": {
         "company": "Alphabet Inc.",
@@ -360,16 +360,16 @@
       "scope": "earnings:GOOGL",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/GOOGL/",
-      "start": "2026-10-28",
+      "start": "2027-02-03",
       "summary": "📊 GOOGL · Alphabet Inc. 财报 [TAS]",
-      "uid": "earnings-GOOGL-2026Q4@finance-calendar"
+      "uid": "earnings-GOOGL-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
       "category": "earnings",
       "description": {
         "Company": "Intel Corporation",
-        "EPS Estimate": "0.249",
+        "EPS Estimate": "0.2489",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -525,12 +525,12 @@
       "category": "earnings",
       "description": {
         "Company": "Micron Technology, Inc.",
-        "EPS Estimate": "38.24",
+        "EPS Estimate": "38.25",
         "Earnings Date": "2026-12-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.174e+10",
+        "Revenue Estimate": "6.176e+10",
         "Ticker": "MU"
       },
       "end": "2026-12-18",
@@ -733,7 +733,7 @@
       "category": "earnings",
       "description": {
         "Company": "Snowflake Inc.",
-        "EPS Estimate": "0.5983",
+        "EPS Estimate": "0.5976",
         "Earnings Date": "2026-12-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -759,12 +759,12 @@
       "category": "earnings",
       "description": {
         "Company": "Tesla, Inc.",
-        "EPS Estimate": "0.499",
+        "EPS Estimate": "0.5047",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.929e+10",
+        "Revenue Estimate": "2.928e+10",
         "Ticker": "TSLA"
       },
       "end": "2027-01-28",
@@ -838,14 +838,14 @@
       "description": {
         "Company": "Vertiv Holdings, LLC",
         "EPS Estimate": "2.288",
-        "Earnings Date": "2026-10-28",
+        "Earnings Date": "2027-02-10",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "4.488e+09",
         "Ticker": "VRT"
       },
-      "end": "2026-10-29",
+      "end": "2027-02-11",
       "kind": "earnings",
       "metadata": {
         "company": "Vertiv Holdings, LLC",
@@ -854,11 +854,11 @@
       "scope": "earnings:VRT",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/VRT/",
-      "start": "2026-10-28",
+      "start": "2027-02-10",
       "summary": "📊 VRT · Vertiv Holdings, LLC 财报 [TAS]",
-      "uid": "earnings-VRT-2026Q4@finance-calendar"
+      "uid": "earnings-VRT-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-24T07:58:40+00:00",
+  "updated_at": "2026-11-24T22:11:03+00:00",
   "version": 1
 }
