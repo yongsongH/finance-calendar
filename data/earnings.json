@@ -5,7 +5,7 @@
       "category": "earnings",
       "description": {
         "Company": "SK hynix",
-        "EPS Estimate": "1.186e+05",
+        "EPS Estimate": "1.183e+05",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -31,12 +31,12 @@
       "category": "earnings",
       "description": {
         "Company": "SamsungElec",
-        "EPS Estimate": "1.684e+04",
+        "EPS Estimate": "1.682e+04",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.245e+14",
+        "Revenue Estimate": "2.244e+14",
         "Ticker": "005930.KS"
       },
       "end": "2027-01-28",
@@ -291,7 +291,7 @@
       "category": "earnings",
       "description": {
         "Company": "Salesforce, Inc.",
-        "EPS Estimate": "3.446",
+        "EPS Estimate": "3.447",
         "Earnings Date": "2026-12-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -452,7 +452,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "7.514e+10",
+        "Revenue Estimate": "7.518e+10",
         "Ticker": "META"
       },
       "end": "2027-01-28",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-23T23:40:01+00:00",
+  "updated_at": "2026-11-24T07:58:40+00:00",
   "version": 1
 }
