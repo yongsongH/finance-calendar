@@ -31,12 +31,12 @@
       "category": "earnings",
       "description": {
         "Company": "SamsungElec",
-        "EPS Estimate": "1.682e+04",
+        "EPS Estimate": "1.662e+04",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.244e+14",
+        "Revenue Estimate": "2.237e+14",
         "Ticker": "005930.KS"
       },
       "end": "2027-01-28",
@@ -317,12 +317,12 @@
       "category": "earnings",
       "description": {
         "Company": "Dell Technologies Inc.",
-        "EPS Estimate": "6.587",
+        "EPS Estimate": "7.511",
         "Earnings Date": "2026-11-24",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "4.927e+10",
+        "Revenue Estimate": "5.365e+10",
         "Ticker": "DELL"
       },
       "end": "2026-11-25",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-24T22:11:03+00:00",
+  "updated_at": "2026-11-25T06:35:12+00:00",
   "version": 1
 }
