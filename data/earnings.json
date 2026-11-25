@@ -109,7 +109,7 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "2.928",
+        "EPS Estimate": "2.931",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -244,7 +244,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.49e+10",
+        "Revenue Estimate": "3.491e+10",
         "Ticker": "AVGO"
       },
       "end": "2026-12-10",
@@ -317,15 +317,15 @@
       "category": "earnings",
       "description": {
         "Company": "Dell Technologies Inc.",
-        "EPS Estimate": "7.511",
-        "Earnings Date": "2026-11-24",
+        "EPS Estimate": "8.525",
+        "Earnings Date": "2027-02-25",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "5.365e+10",
+        "Revenue Estimate": "5.652e+10",
         "Ticker": "DELL"
       },
-      "end": "2026-11-25",
+      "end": "2027-02-26",
       "kind": "earnings",
       "metadata": {
         "company": "Dell Technologies Inc.",
@@ -334,9 +334,9 @@
       "scope": "earnings:DELL",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/DELL/",
-      "start": "2026-11-24",
+      "start": "2027-02-25",
       "summary": "📊 DELL · Dell Technologies Inc. 财报 [TAS]",
-      "uid": "earnings-DELL-2026Q4@finance-calendar"
+      "uid": "earnings-DELL-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-25T06:35:12+00:00",
+  "updated_at": "2026-11-25T21:27:04+00:00",
   "version": 1
 }
