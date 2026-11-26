@@ -270,7 +270,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.654e+09",
+        "Revenue Estimate": "2.645e+09",
         "Ticker": "COHR"
       },
       "end": "2027-02-04",
@@ -317,12 +317,12 @@
       "category": "earnings",
       "description": {
         "Company": "Dell Technologies Inc.",
-        "EPS Estimate": "8.525",
+        "EPS Estimate": "8.582",
         "Earnings Date": "2027-02-25",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "5.652e+10",
+        "Revenue Estimate": "5.682e+10",
         "Ticker": "DELL"
       },
       "end": "2027-02-26",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-25T21:27:04+00:00",
+  "updated_at": "2026-11-26T21:14:19+00:00",
   "version": 1
 }
