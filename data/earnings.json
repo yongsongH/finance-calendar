@@ -36,7 +36,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.237e+14",
+        "Revenue Estimate": "2.249e+14",
         "Ticker": "005930.KS"
       },
       "end": "2027-01-28",
@@ -291,7 +291,7 @@
       "category": "earnings",
       "description": {
         "Company": "Salesforce, Inc.",
-        "EPS Estimate": "3.447",
+        "EPS Estimate": "3.446",
         "Earnings Date": "2026-12-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -859,6 +859,6 @@
       "uid": "earnings-VRT-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-26T21:14:19+00:00",
+  "updated_at": "2026-11-28T05:54:56+00:00",
   "version": 1
 }
